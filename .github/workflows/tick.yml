@@ -1,0 +1,50 @@
+name: tick
+# 인스타 @moneyball7979 'AI 캐러셀' 클라우드 회차 — PC 없이 하루 3편 발행 + 댓글 → 자료 DM.
+# GitHub 예약(schedule)은 잘 안 돌아서 믿지 않고, 회차가 끝날 때 다음 회차를 직접 부른다(사슬, 인스타카드뉴스 tick 과 같은 방식).
+# 기다리는 동안은 environment wait timer(러너 없이 대기) — wait1·wait5·wait30·wait120, 바로 = now.
+on:
+  workflow_dispatch:
+    inputs:
+      wait:
+        description: 'wait1 / wait5 / wait30 / wait120 / now'
+        default: 'wait5'
+      dry:
+        description: '1 = 컨테이너까지만(발행 안 함)'
+        default: ''
+  schedule:
+    - cron: '23,53 * * * *'   # 사슬이 끊겼을 때 다시 잇는 보조
+concurrency:
+  group: tick
+  cancel-in-progress: false
+permissions:
+  actions: write
+  contents: write
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment: ${{ inputs.wait || 'now' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: check
+        id: c
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          TZ: Asia/Seoul
+          PYTHONIOENCODING: utf-8
+        run: python3 cloud/tick.py ${{ inputs.dry == '1' && '--dry' || '' }}
+      - name: next
+        if: always() && inputs.dry != '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # 보조 cron 회차는 사슬이 이미 기다리고 있으면 새 사슬을 만들지 않는다(사슬 겹침 방지)
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow tick.yml --event workflow_dispatch -L 5 --json status \
+                -q '[.[] | select(.status=="waiting" or .status=="queued" or .status=="pending" or .status=="requested")] | length')
+            if [ "$n" != "0" ]; then echo "사슬 살아 있음 — 새로 안 만듦"; exit 0; fi
+          fi
+          gh workflow run tick.yml -R "$GITHUB_REPOSITORY" -f wait="${{ steps.c.outputs.next || 'wait5' }}"
