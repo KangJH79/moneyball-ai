@@ -234,6 +234,13 @@ def dm_round(led, now):
 
 def main():
     now = dt.datetime.now(KST)
+    if not TOKEN or not UID:                 # 토큰 연결 전 — 헛 회차 사슬을 만들지 않게 멈춤
+        print(f"[{now:%m-%d %H:%M}] 토큰 없음 — 사슬 멈춤(connect.py 가 연결하면 다시 시작)")
+        out = os.environ.get("GITHUB_OUTPUT")
+        if out:
+            with open(out, "a") as f:
+                f.write("next=stop\n")
+        return
     q, led, blk = jl("queue.json", []), jl("ledger.json", []), jl("blocked.json", {})
     today = now.date().isoformat()
     slots = [now.replace(hour=int(s[:2]), minute=int(s[3:5]), second=0, microsecond=0) for s in CFG.get("slots", ["10:00", "15:00", "21:00"])]

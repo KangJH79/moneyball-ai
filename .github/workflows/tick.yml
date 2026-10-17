@@ -41,6 +41,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          if [ "${{ steps.c.outputs.next }}" = "stop" ]; then echo "멈춤(토큰 없음)"; exit 0; fi
           # 보조 cron 회차는 사슬이 이미 기다리고 있으면 새 사슬을 만들지 않는다(사슬 겹침 방지)
           if [ "${{ github.event_name }}" = "schedule" ]; then
             n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow tick.yml --event workflow_dispatch -L 5 --json status \
