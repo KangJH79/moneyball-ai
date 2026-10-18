@@ -41,7 +41,7 @@
   "caption": "클로드 품은 개인 자산 관리 앱을 내 PC에서 무료로 쓸 수 있습니다.\n소중한 금융 데이터를 안전하게 지키면서요.\n\n내 계좌와 자산 내역을 남의 서버에 올리기 불안했던 적 있으시죠.\n엑셀로 자산 정리하다가 복잡해서 포기한 적도 있으실 겁니다.\n\n깃허브에 누가 이걸 오픈소스로 풀었습니다. 이름은 Aurelio.\n내 컴퓨터 안에서 자산 데이터를 직접 관리하고 AI 어드바이저와 상담하는 앱입니다.\n\n→ 은행, 증권 계좌, 현금, 대출까지 내 컴퓨터에서 통합 관리\n→ 펀드가 보유한 국가, 섹터, 세부 종목까지 들여다보는 분석\n→ Claude Opus 5.5 등 AI와 대화하며 포트폴리오 진단\n→ 수입, 지출, 저축률, 목표 달성에 필요한 수익률 계산\n\nMIT 라이선스로 공개된 완전 무료 오픈소스입니다.\n깃허브 공개 후 별 약 4천 개, 포크 500개를 기록했습니다.\nWindows, macOS, Linux 환경을 모두 지원합니다.\n\n설치법과 무료 실행법 필요하면\n아무 댓글이나 남겨주세요. DM으로 보내드릴게요.\nDM이 안 오면 프로필 링크 → 자료실\n\nCredit: github.com/LosaLosSantos/aurelio-finance\n\n#자산관리 #재테크 #클로드 #챗GPT #제미나이 #AI툴 #무료AI #AI꿀팁 #머니볼AI",
   "cards": 7,
   "made": "2026-10-18T03:11",
-  "status": "ready",
+  "status": "published",
   "template": "photo",
   "deliverable": "설치법과 무료 실행법",
   "guide_url": "https://kangjh79.github.io/moneyball-ai/g/20261018-01.html",
