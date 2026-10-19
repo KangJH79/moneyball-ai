@@ -1,0 +1,57 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>팩트펀치 FACT PUNCH</title><meta name="description" content="정치를 사실로 한 방 — 팩트펀치 글마다 기사 원문 링크">
+<meta property="og:title" content="팩트펀치 FACT PUNCH"><meta property="og:description" content="정치를 사실로 한 방 — 글마다 기사 원문 링크">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+:root{--bg:#0b0b0c;--card:#17171a;--line:#2a2a2e;--text:#f2f2f3;--sub:#a3a3a8;--mint:#bbe5dd}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Pretendard,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;line-height:1.65;-webkit-text-size-adjust:100%}
+a{color:inherit}.wrap{max-width:720px;margin:0 auto;padding:32px 16px 64px}
+.top{font-size:13px;letter-spacing:.2em;color:var(--sub);font-weight:700}
+h1{font-size:40px;line-height:1.2;margin:8px 0 6px;font-weight:900;letter-spacing:-.02em}
+h1 mark{background:var(--mint);color:#000;padding:0 .12em}
+.lead{color:var(--sub);margin:0 0 20px}
+.ig{display:inline-block;border:2px solid var(--text);border-radius:999px;padding:9px 20px;font-weight:700;text-decoration:none;margin-bottom:26px}
+.rules{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:0 0 30px}
+.rules li{margin:4px 0}.rules ul{margin:0;padding-left:20px}
+h2{font-size:21px;margin:0 0 12px}
+article{border-top:1px solid var(--line);padding:14px 0}
+article .d{font-size:13px;color:var(--sub)}
+article h3{font-size:17px;margin:2px 0 6px;line-height:1.45}
+article ul{margin:0;padding-left:18px;font-size:14px;color:var(--sub)}
+article ul a{color:var(--mint)}
+.empty,.s{color:var(--sub);font-size:14px}
+.foot{margin-top:36px;font-size:13px;color:var(--sub)}
+</style></head><body><div class="wrap">
+<div class="top">FACT PUNCH</div>
+<h1>팩트<mark>펀치</mark></h1>
+<p class="lead">정치를 사실로 한 방 — 오늘의 정치, 기사·발언 원문으로 한 장 정리</p>
+<a class="ig" href="https://www.instagram.com/moneyball7979/">인스타그램 @moneyball7979</a>
+<div class="rules"><ul>
+<li>모든 카드에 출처(언론사·날짜) — 기사 원문 링크는 아래에</li>
+<li>따옴표 안 발언은 기사 원문 그대로</li>
+<li>다른 사람의 주장은 '~라고 했다'로만</li>
+<li>사진은 공공누리 1유형·CC·퍼블릭 도메인만 — 저작권 표기는 캡션에</li>
+</ul></div>
+<h2>글마다 기사 원문</h2>
+<div id="list"><p class="empty">불러오는 중…</p></div>
+<p class="foot">팩트펀치 · 개인 운영 · 틀린 내용은 인스타 댓글로 알려 주세요</p>
+</div>
+<script>
+const RAW='https://raw.githubusercontent.com/KangJH79/moneyball-ai/main/state/';
+const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const url=u=>/^https?:\/\//.test(u||'')?esc(u):'#';
+(async()=>{
+ const box=document.getElementById('list');
+ try{
+  const [led,q]=await Promise.all(['ledger.json','queue.json'].map(f=>fetch(RAW+f,{cache:'no-store'}).then(r=>r.ok?r.json():[])));
+  const by={};q.forEach(x=>by[x.id]=x);
+  const rows=led.filter(r=>by[r.id]&&['react','list','story'].includes(by[r.id].template))
+                .sort((a,b)=>(b.published_at||'').localeCompare(a.published_at||''));
+  if(!rows.length){box.innerHTML='<p class="empty">첫 글이 곧 올라와요.</p>';return}
+  box.innerHTML=rows.map(r=>{const it=by[r.id];
+   const arts=(it.articles||[]).map(a=>`<li><a href="${url(a.url)}" target="_blank" rel="noopener">${esc(a.press)}${a.time?' · '+esc(String(a.time).slice(0,10)):''}</a></li>`).join('');
+   return `<article><div class="d">${esc((r.published_at||'').slice(0,10))}</div><h3><a href="${url(r.permalink)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>`
+     +(arts?`<ul>${arts}</ul>`:(it.template==='story'?'<p class="s">자료: 위키백과</p>':''))+'</article>'}).join('');
+ }catch(e){box.innerHTML='<p class="empty">목록을 불러오지 못했어요. 잠시 뒤 다시 열어 주세요.</p>'}
+})();
+</script></body></html>
