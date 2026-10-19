@@ -1,19 +1,20 @@
 {
  "handle": "moneyball7979",
- "posts_per_day": 3,
+ "posts_per_day": 4,
  "slots": [
-  "12:00",
-  "19:00",
-  "22:30"
+  "11:00",
+  "12:40",
+  "15:30",
+  "18:20"
  ],
- "start": "11:30",
- "end": "23:50",
- "min_gap_minutes": 180,
+ "start": "10:30",
+ "end": "20:30",
+ "min_gap_minutes": 90,
  "max_fail_per_day": 2,
  "jaryo_url": "https://kangjh79.github.io/moneyball-ai/",
  "dm": {
-  "enabled": true,
-  "max_per_tick": 40,
-  "fallback_public_reply": true
+  "enabled": false,
+  "max_per_tick": 0,
+  "fallback_public_reply": false
  }
 }
