@@ -278,5 +278,141 @@
     "time": "2026-10-18 09:21:11"
    }
   ]
+ },
+ {
+  "id": "20261020-01",
+  "title": "영결식 날 터진 '재정 쭉쭉' 망언",
+  "caption": "<영결식 날 터진 '재정 쭉쭉' 망언>\n\n순직 소방관 영결식이 엄수된 날,\n국감장에서 또 망언이 터졌습니다.\n\n여당 의원의 '재정 쭉쭉' 발언,\n국민의힘은 비정하다 질타했습니다.\n\n영웅 앞에 부끄럽지도 않습니까…\n\n여러분 생각은? 댓글로 1 또는 2\n1 희생 모욕한 망언\n2 재정 문제 지적일 뿐\n\n📌 출처: KBS 10.19 · 조선일보 10.20 · JIBS 10.19 · 연합뉴스 10.19\n📷 사진: 서울의소리 Voice of Seoul News, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-20T03:07:11",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012276389",
+    "time": "2026-10-19 17:55:51"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004004782",
+    "time": "2026-10-20 00:49:08"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000085183",
+    "time": "2026-10-19 16:49:09"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016386559",
+    "time": "2026-10-19 16:27:14"
+   }
+  ]
+ },
+ {
+  "id": "20261020-02",
+  "title": "응급환자 전용구역 30분 주차 논란",
+  "caption": "<응급환자 전용구역 30분 주차 논란>\n\n순직 소방관을 기린다며\n장례식장을 찾았습니다.\n\n그런데 타고 온 차량은\n응급환자 전용구역에 주차…\n위급 환자의 생명 길을\n30분간 막아섰습니다.\n과연 누구를 위한 조문입니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 원칙 어긴 특권 의전\n2 안내 따른 단순 실수\n\n📌 출처: 동아일보 10.19 · KBS 10.19 · 조세일보 10.19 · 중앙일보 10.19\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-20T03:08:29",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "동아일보",
+    "url": "https://n.news.naver.com/mnews/article/020/0003755992",
+    "time": "2026-10-19 17:19:12"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012276700",
+    "time": "2026-10-19 23:14:01"
+   },
+   {
+    "press": "조세일보",
+    "url": "https://n.news.naver.com/mnews/article/123/0002392137",
+    "time": "2026-10-19 15:48:14"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003558971",
+    "time": "2026-10-19 19:39:32"
+   }
+  ]
+ },
+ {
+  "id": "20261020-03",
+  "title": "DMZ 영토 흔든 미 사령관의 망언",
+  "caption": "<DMZ 영토 흔든 미 사령관의 망언>\n\n대한민국이 철책선부터 시작이라니…\n동맹 사령관 발언이 맞나 싶습니다.\nDMZ는 엄연한 우리 영토입니다.\n영토 주권에 타협은 없습니다.\n감정적 공세로 동맹 흔들기보다\n단호하되 냉철한 관리가 답입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 교체 요구 등 강력 대응\n2 신중·절제된 동맹 관리\n\n📌 출처: 서울신문 10.19 · 파이낸셜뉴스 10.19 · 한겨레 10.19 · 경향신문 10.18\n📷 사진: 박종우, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-20T03:10:11",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003690045",
+    "time": "2026-10-19 05:02:32"
+   },
+   {
+    "press": "파이낸셜뉴스",
+    "url": "https://n.news.naver.com/mnews/article/014/0005591111",
+    "time": "2026-10-19 12:46:12"
+   },
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828003",
+    "time": "2026-10-19 05:02:24"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003476962",
+    "time": "2026-10-18 18:03:00"
+   }
+  ]
+ },
+ {
+  "id": "20261020-04",
+  "title": "북핵 위기 속 전작권 조기 환수 논란",
+  "caption": "<북핵 위기 속 전작권 조기 환수 논란>\n\n북핵 위협이 엄연한데\n전작권 조기 환수라니요…\n\n동맹의 역량 검증마저\n알아서 한다며 넘깁니다.\n\n안보는 자존심이 아니라\n국민 생존의 문제입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 안보 검증이 먼저\n2 군사주권이 먼저\n\n📌 출처: 강원도민일보 10.19 · 뉴시스 10.19 · 오마이뉴스 10.19 · 중앙일보 10.20\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-20T03:11:48",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "강원도민일보",
+    "url": "https://n.news.naver.com/mnews/article/654/0000206238",
+    "time": "2026-10-19 18:32:18"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014264177",
+    "time": "2026-10-19 19:58:36"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002532743",
+    "time": "2026-10-19 18:41:09"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003559056",
+    "time": "2026-10-20 00:35:13"
+   }
+  ]
  }
 ]
