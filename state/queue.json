@@ -142,5 +142,141 @@
   "deliverable": "가이드 링크와 핵심 세팅법",
   "guide_url": "https://kangjh79.github.io/moneyball-ai/g/20261019-03.html",
   "dm_text": "안녕하세요! 머니볼 AI예요 🙌\n요청하신 「가이드 링크와 핵심 세팅법」 정리해뒀어요 👇\nhttps://kangjh79.github.io/moneyball-ai/g/20261019-03.html\n\n저장해두고 필요할 때 꺼내 쓰세요. 다음 자료도 놓치지 않게 팔로우해두세요!"
+ },
+ {
+  "id": "20261019-04",
+  "title": "가수 공연 끊고 무대 오른 김민석 대표",
+  "caption": "<가수 공연 끊고 무대 오른 김민석 대표>\n\n가수 노래 끊고 무대에 올랐습니다.\n올라가선 자당 인사 챙기기였습니다.\n\n사회자 탓이라는 해명 뒤에 숨은,\n구태 특권 의식이 씁쓸할 뿐입니다.\n\n시민 축제가 정당 유세장입니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 과도한 특권 갑질이다\n2 주최 측의 진행 실수다\n\n📌 출처: 한국경제 10.18 · 매일경제 10.18 · TV조선 10.19 · 조선일보 10.18\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-19T09:22:24",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국경제",
+    "url": "https://n.news.naver.com/mnews/article/015/0005343600",
+    "time": "2026-10-18 07:36:16"
+   },
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005750123",
+    "time": "2026-10-18 15:42:12"
+   },
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000645600",
+    "time": "2026-10-19 08:23:32"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004004462",
+    "time": "2026-10-18 14:07:10"
+   }
+  ]
+ },
+ {
+  "id": "20261019-05",
+  "title": "대법원장 탄핵 몰아붙이는 조국",
+  "caption": "<대법원장 탄핵 몰아붙이는 조국>\n\n대법원장 탄핵 표결을\n당장 내놓으라는 조국 원장.\n\n여당 탓하며 사법부까지\n흔들려는 속셈인가요…\n\n사법부 길들이기, 도 넘었습니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 사법부 흔들기다\n2 정당한 권한이다\n\n📌 출처: 서울신문 10.18 · 시사저널 10.18 · 서울경제 10.18 · 데일리안 10.18\n📷 사진: 대한민국 청와대, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 델리민주 [더불어민주당 ], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-19T09:24:35",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003689988",
+    "time": "2026-10-18 16:50:13"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000140189",
+    "time": "2026-10-18 15:30:09"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004672339",
+    "time": "2026-10-18 10:22:14"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003143914",
+    "time": "2026-10-18 11:19:10"
+   }
+  ]
+ },
+ {
+  "id": "20261019-06",
+  "title": "카메라 앞 국무회의, 소통인가 쇼인가",
+  "caption": "<카메라 앞 국무회의, 소통인가 쇼인가>\n\n국무회의 생중계를 둘러싼\n우려가 터져 나왔습니다.\n\n대통령은 거짓말이라며\n즉각 반박에 나섰지만…\n\n카메라 앞 장관들이 과연\n소신껏 입을 열 수 있을지…\n\n여러분 생각은? 댓글로 1 또는 2\n1 투명한 직접 소통\n2 보여주기식 쇼통\n\n📌 출처: 서울신문 10.19 · 세계일보 10.18 · 한국일보 10.19 · 경기일보 10.19\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-19T10:07:26",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003690044",
+    "time": "2026-10-19 05:02:27"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004167526",
+    "time": "2026-10-18 11:13:10"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000960185",
+    "time": "2026-10-19 04:32:00"
+   },
+   {
+    "press": "경기일보",
+    "url": "https://n.news.naver.com/mnews/article/666/0000127993",
+    "time": "2026-10-19 06:48:10"
+   }
+  ]
+ },
+ {
+  "id": "20261019-07",
+  "title": "0분 출전에도 군 면제, 이게 공정인가",
+  "caption": "<0분 출전에도 병역 특례, 이게 공정인가>\n\n아시안게임 축구 23명 중\n7명이 1시간도 안 뛰었습니다.\n0분 뛴 2명도 병역 특례 대상…\n\n묵묵히 입대하는 청년들 앞에\n이런 제도가 과연 공정합니까.\n구시대 병역 특례, 손봐야 합니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 공정 위해 전면 폐지\n2 국위선양 위해 유지\n\n📌 출처: 서울경제 10.18 · 조선일보 10.19 · 매일신문 10.19 · 연합뉴스TV 10.18\n📷 사진: 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-19T10:09:59",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004672328",
+    "time": "2026-10-18 09:31:09"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004004595",
+    "time": "2026-10-19 08:02:07"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001035136",
+    "time": "2026-10-19 08:43:08"
+   },
+   {
+    "press": "연합뉴스TV",
+    "url": "https://n.news.naver.com/mnews/article/422/0000916754",
+    "time": "2026-10-18 09:21:11"
+   }
+  ]
  }
 ]
