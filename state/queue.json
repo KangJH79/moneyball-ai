@@ -414,5 +414,141 @@
     "time": "2026-10-20 00:35:13"
    }
   ]
+ },
+ {
+  "id": "20261021-01",
+  "title": "취임 전 국무회의 달려간 중수청장",
+  "caption": "<취임 전 국무회의 달려간 중수청장>\n\n취임식도 하기 전에\n국무회의부터 배석했습니다.\n\n대통령과 마주 앉아\n어떻게 성역 없는 수사를 합니까.\n\n수사의 정치화 청산이라더니,\n외풍에 흔들리는 건 순식간입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 수사 독립 훼손이다\n2 행정 지휘라 문제없다\n\n📌 출처: 국민일보 10.20 · 조선일보 10.21 · 중앙일보 10.20 · JIBS 10.20\n📷 사진: Pete Souza, Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-21T03:09:21",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "국민일보",
+    "url": "https://n.news.naver.com/mnews/article/005/0001879846",
+    "time": "2026-10-20 19:07:07"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004005013",
+    "time": "2026-10-21 00:57:11"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003559252",
+    "time": "2026-10-20 18:41:53"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000085263",
+    "time": "2026-10-20 17:39:09"
+   }
+  ]
+ },
+ {
+  "id": "20261021-02",
+  "title": "공급 전격전 외친 정부, 불안 잡힐까",
+  "caption": "<공급 전격전 외친 정부, 불안 잡힐까>\n\n이 대통령의 주택 공급 전격전.\n2030년까지 90% 착공 압박.\n규제와 절차 다 고치라지만…\n무리한 번갯불 착공이 능사일까.\n절차 건너뛰다 부실 부를라…\n시장이 원하는 건 진짜 신뢰다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 신속 공급으로 안정\n2 졸속 추진으로 부작용\n\n📌 출처: 조선비즈 10.20 · 아시아경제 10.20 · 머니투데이 10.20 · 뉴시스 10.20\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-21T03:11:16",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선비즈",
+    "url": "https://n.news.naver.com/mnews/article/366/0001199175",
+    "time": "2026-10-20 18:02:12"
+   },
+   {
+    "press": "아시아경제",
+    "url": "https://n.news.naver.com/mnews/article/277/0005830873",
+    "time": "2026-10-20 10:52:35"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005429201",
+    "time": "2026-10-20 17:58:47"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014266265",
+    "time": "2026-10-20 15:12:26"
+   }
+  ]
+ },
+ {
+  "id": "20261021-03",
+  "title": "적반하장 도발에 단호 대응 선언",
+  "caption": "<적반하장 도발에 단호 대응 선언>\n\n지뢰 묻어 장병 다치게 하더니,\n도리어 위협하는 북한의 억지.\n\n여기에 우리 군이 내린 결론,\n\"…단호하게 대응하라.\"\n\n원칙대로 맞서는 든든한 결기,\n이게 진짜 대한민국 군대다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 당연히 단호히 응징해야\n2 대화로 긴장 낮춰야\n\n📌 출처: 중앙일보 10.20 · 이데일리 10.20 · 뉴스1 10.20 · 연합뉴스 10.20\n📷 사진: TECH SGT JACK BRADEN, Public domain · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-21T03:12:53",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003559102",
+    "time": "2026-10-20 09:42:52"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006392080",
+    "time": "2026-10-20 10:48:12"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009238492",
+    "time": "2026-10-20 12:35:35"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016388576",
+    "time": "2026-10-20 14:04:33"
+   }
+  ]
+ },
+ {
+  "id": "20261021-04",
+  "title": "우크라 공관 철수… 러·북 눈치 보나",
+  "caption": "<우크라 공관 철수… 러·북 눈치 보나>\n\n북한군 포로 밝혔다고\n우방 대사관을 철수합니까.\n4년 넘게 버틴 전쟁터에서\n이제 와 공습 핑계라니요.\n\n러·북 눈치 보느라\n우방마저 걷어차는 외교…\n교민들도 외면한 촌극입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 우방 걷어찬 굴종 외교\n2 원칙 지킨 정당한 조치\n\n📌 출처: 이데일리 10.20 · 세계일보 10.20 · 동행미디어 시대 10.20 · 연합뉴스 10.20\n📷 사진: דוד שי, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-21T03:14:09",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006392362",
+    "time": "2026-10-20 16:46:14"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004168227",
+    "time": "2026-10-20 17:54:10"
+   },
+   {
+    "press": "동행미디어 시대",
+    "url": "https://n.news.naver.com/mnews/article/417/0001161476",
+    "time": "2026-10-20 14:31:36"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016389776",
+    "time": "2026-10-20 19:50:01"
+   }
+  ]
  }
 ]
