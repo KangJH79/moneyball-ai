@@ -686,5 +686,141 @@
     "time": "2026-10-21 20:26:14"
    }
   ]
+ },
+ {
+  "id": "20261023-01",
+  "title": "중수청 지휘 안 하면 탄핵이라는 대통령",
+  "caption": "<중수청 지휘 안 하면 탄핵이라는 대통령>\n\n수사기관장 불참 관행을\n하루아침에 뒤엎더니,\n이제는 탄핵까지 운운합니다.\n\n수사의 생명은 중립성인데,\n대놓고 지휘하겠다는 건가요.\n\n국민이 지켜보고 있습니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 수사 독립성 훼손이다\n2 정당한 지휘·감독이다\n\n📌 출처: 시사저널 10.22 · 조선일보 10.23 · 뉴스1 10.22 · 한겨레 10.22\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-23T03:06:59",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000140656",
+    "time": "2026-10-22 18:05:10"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004005509",
+    "time": "2026-10-23 00:56:08"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009245078",
+    "time": "2026-10-22 17:58:27"
+   },
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828727",
+    "time": "2026-10-22 18:04:25"
+   }
+  ]
+ },
+ {
+  "id": "20261023-02",
+  "title": "장동혁 33.6%…김민석에 8%p 앞서",
+  "caption": "<장동혁 33.6%…김민석에 8%p 앞서>\n\n장동혁 긍정 33.6% 기록,\n김민석을 8%p 앞섰습니다.\n\n18~29세에선 42.9%로,\n청년층 지지가 앞섰습니다.\n\n당내 갈등과 논란 속,\n국민의힘이 답할 때입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 민심 반영된 반전이다\n2 아직 더 지켜봐야 한다\n\n📌 출처: 연합뉴스 10.22 · 중앙일보 10.22 · 머니투데이 10.22 · 경기일보 10.22\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-23T03:08:27",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016395007",
+    "time": "2026-10-22 16:07:28"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003559813",
+    "time": "2026-10-22 16:14:27"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005430281",
+    "time": "2026-10-22 16:27:36"
+   },
+   {
+    "press": "경기일보",
+    "url": "https://n.news.naver.com/mnews/article/666/0000128741",
+    "time": "2026-10-22 17:18:14"
+   }
+  ]
+ },
+ {
+  "id": "20261023-03",
+  "title": "선고 앞두고 징역형 촉구한 법사위원장",
+  "caption": "<선고 앞두고 징역형 촉구한 법사위원장>\n\n선고 하루 전 징역형을 외쳤습니다.\n그것도 국회 법사위원장 명의로요.\n다음 주 법원 감사도 남았는데…\n\n사법부 독립은 안중에도 없습니까…\n이게 사법부 겁박이 아니면 뭡니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 명백한 재판 개입이다\n2 정당한 의견 표명이다\n\n📌 출처: 뉴시스 10.22 · 뉴스1 10.22 · 문화일보 10.23 · KBS 10.23\n📷 사진: 서울의소리 Voice of Seoul News, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-23T03:09:21",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014272872",
+    "time": "2026-10-22 19:18:55"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009244118",
+    "time": "2026-10-22 13:11:54"
+   },
+   {
+    "press": "문화일보",
+    "url": "https://n.news.naver.com/mnews/article/021/0002827176",
+    "time": "2026-10-23 01:08:15"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012279319",
+    "time": "2026-10-23 01:00:44"
+   }
+  ]
+ },
+ {
+  "id": "20261023-05",
+  "title": "안보리 서한, 한 달 만의 대응",
+  "caption": "<안보리 서한, 한 달 만의 대응>\n\nDMZ 지뢰 폭발 한 달...\n정부가 안보리 의장에게 서한을 보낸다\n\n북한은 사과 대신 위협\n독자제재는 검토 중, 확정은 아니다\n\n서한만으로 충분할까요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 서한보다 강한 제재\n2 대화로 긴장 완화\n\n📌 출처: 머니투데이 10.22 · 아시아경제 10.22 · 매일경제 10.22 · 경향신문 10.22\n📷 사진: Vice-Presidência da República, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-23T03:19:11",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005430261",
+    "time": "2026-10-22 16:00:32"
+   },
+   {
+    "press": "아시아경제",
+    "url": "https://n.news.naver.com/mnews/article/277/0005831997",
+    "time": "2026-10-22 11:00:00"
+   },
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005752712",
+    "time": "2026-10-22 17:43:45"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003478055",
+    "time": "2026-10-22 21:54:01"
+   }
+  ]
  }
 ]
