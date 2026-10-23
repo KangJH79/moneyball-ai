@@ -822,5 +822,136 @@
     "time": "2026-10-22 21:54:01"
    }
   ]
+ },
+ {
+  "id": "20261024-01",
+  "title": "안보는 희망이 아닌 준비다",
+  "caption": "<안보는 희망이 아닌 준비다>\n\n평화는 선의로 오지 않습니다.\n철저한 대비만이 평화를 지킵니다.\n\n게임 속 잿더미 서울이\n가상으로만 남아야 하기에,\n우리의 준비는 빈틈없어야 합니다.\n\n안보는 희망이 아닌 실력입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 철저한 준비가 우선\n2 대화와 희망이 우선\n\n📌 출처: 한국경제TV 10.23 · 서울신문 10.22 · 시사저널 10.23 · 매일신문 10.23\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-24T03:06:36",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국경제TV",
+    "url": "https://n.news.naver.com/mnews/article/215/0001270207",
+    "time": "2026-10-23 11:27:07"
+   },
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003691651",
+    "time": "2026-10-22 19:39:14"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000140732",
+    "time": "2026-10-23 14:20:11"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001036208",
+    "time": "2026-10-23 15:52:13"
+   }
+  ]
+ },
+ {
+  "id": "20261024-02",
+  "title": "까겠다더니 비공개? 여당의 신천지 내분",
+  "caption": "<까겠다더니 비공개? 여당의 신천지 내분>\n\n전당대회 땐 상대를 잡겠다고\n신천지 의혹을 요란하게 띄우더니…\n막상 조사가 끝나자 파장 핑계 대며\n비공개 회의 뒤로 숨어버렸습니다.\n친청계는 당장 전면 공개하라 맞서고\n공개한다던 TF 단장은 말을 바꿨습니다.\n떳떳하다면 무엇이 두려워 감춥니까.\n팩트펀치가 끝까지 지켜보겠습니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 당장 전면 공개하라\n2 파장 고려해 비공개\n\n📌 출처: kbc광주방송 10.23 · KBS 10.23 · 시사저널 10.23\n📷 사진: 델리민주 Daily Minjoo, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 델리민주 [더불어민주당], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / ChongDae, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 7,
+  "made": "2026-10-24T03:08:10",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "kbc광주방송",
+    "url": "https://n.news.naver.com/mnews/article/660/0000119780",
+    "time": "2026-10-23 12:40:10"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012279571",
+    "time": "2026-10-23 11:23:33"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000140703",
+    "time": "2026-10-23 11:44:11"
+   }
+  ]
+ },
+ {
+  "id": "20261024-03",
+  "title": "조희대 탄핵 반대 39%, 민심 역행하나",
+  "caption": "<조희대 탄핵 반대 39%, 민심 역행하나>\n\n한국갤럽 반대 39% 찬성 34%.\n중도층도 34% 동률로 팽팽합니다.\n\n김민석 대표가 꺼낸 탄핵 논의…\n과연 누구를 위한 탄핵입니까?\n\n사법부 흔들기를 당장 멈추십시오.\n\n여러분 생각은? 댓글로 1 또는 2\n1 무리한 탄핵 폭주\n2 사법부 탄핵 찬성\n\n📌 출처: kbc광주방송 10.23 · MBN 10.23 · 연합뉴스 10.23 · 뉴스1 10.23\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-24T03:09:50",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "kbc광주방송",
+    "url": "https://n.news.naver.com/mnews/article/660/0000119779",
+    "time": "2026-10-23 12:08:12"
+   },
+   {
+    "press": "MBN",
+    "url": "https://n.news.naver.com/mnews/article/057/0001974869",
+    "time": "2026-10-23 17:25:06"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016396313",
+    "time": "2026-10-23 11:29:38"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009245922",
+    "time": "2026-10-23 10:57:30"
+   }
+  ]
+ },
+ {
+  "id": "20261024-04",
+  "title": "말로만 범죄와의 전쟁인가",
+  "caption": "<말로만 범죄와의 전쟁인가>\n\n전자발찌 찬 흉악범이\n대낮에 흉기를 휘두르는 나라.\n\n또 '전쟁 선포'라며 큰소리쳤지만\n정작 순찰대는 일자리 사업 타령…\n\n보여주기식 대책으로\n국민 안전이 지켜지겠습니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 보여주기식 헛구호다\n2 실제 범죄 줄어든다\n\n📌 출처: MBN 10.23 · 여성신문 10.23 · 중앙일보 10.23 · 노컷뉴스 10.23\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-24T03:11:23",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "MBN",
+    "url": "https://n.news.naver.com/mnews/article/057/0001974901",
+    "time": "2026-10-23 19:32:07"
+   },
+   {
+    "press": "여성신문",
+    "url": "https://n.news.naver.com/mnews/article/310/0000141091",
+    "time": "2026-10-23 17:25:08"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003559996",
+    "time": "2026-10-23 10:23:31"
+   },
+   {
+    "press": "노컷뉴스",
+    "url": "https://n.news.naver.com/mnews/article/079/0004202103",
+    "time": "2026-10-23 14:37:10"
+   }
+  ]
  }
 ]
