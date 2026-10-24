@@ -955,5 +955,141 @@
     "time": "2026-10-23 14:37:10"
    }
   ]
+ },
+ {
+  "id": "20261025-01",
+  "title": "무죄 받고 당당하게 사법부 지킨 오세훈",
+  "caption": "<무죄 받고 당당하게 사법부 지킨 오세훈>\n\n2심 무죄 받자마자\n여권 폭주에 정면 일침 날린\n오세훈 서울시장.\n\n사법부 흔들기는 헌법 유린입니다.\n이제 당당하게 단합해\n대안을 보여줄 때입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 사법부 지킨 당당한 일침\n2 지나친 정치적 공세\n\n📌 출처: 채널A 10.24 · 연합뉴스 10.24 · JIBS 10.24 · 강원일보 10.24\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-25T03:26:04",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "채널A",
+    "url": "https://n.news.naver.com/mnews/article/449/0000365144",
+    "time": "2026-10-24 16:56:14"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016398015",
+    "time": "2026-10-24 15:29:42"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000085489",
+    "time": "2026-10-24 16:10:17"
+   },
+   {
+    "press": "강원일보",
+    "url": "https://n.news.naver.com/mnews/article/087/0001225897",
+    "time": "2026-10-24 16:03:09"
+   }
+  ]
+ },
+ {
+  "id": "20261025-02",
+  "title": "신천지 조사에 터진 민주당 집안싸움",
+  "caption": "<신천지 조사에 터진 민주당 집안싸움>\n\n회의장에서 고성이 터져 나왔습니다.\n신천지 조사 결과를 감추려다\n자기들끼리 진흙탕 싸움을 벌입니다.\n\n남에겐 거센 잣대를 들이대더니…\n자기 허물 앞엔 무엇이 두렵습니까.\n떳떳하다면 즉각 특검에 응하십시오.\n\n여러분 생각은? 댓글로 1 또는 2\n1 당장 전면 공개해야\n2 특검 도입해 밝혀야\n\n📌 출처: KBS 10.24 · 서울경제 10.24 · 뉴시스 10.23 · 뉴스1 10.23\n📷 사진: 델리민주 Daily Minjoo, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-25T03:34:36",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012280172",
+    "time": "2026-10-24 14:59:40"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004674672",
+    "time": "2026-10-24 07:01:28"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014274865",
+    "time": "2026-10-23 16:03:55"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009247155",
+    "time": "2026-10-23 18:04:48"
+   }
+  ]
+ },
+ {
+  "id": "20261025-03",
+  "title": "지뢰 도발에도 또 대화 구걸인가",
+  "caption": "<지뢰 도발에도 또 대화 구걸인가>\n\n우리 군이 피 흘렸습니다.\n지뢰 도발 32일 만에\n정부는 또 대화하자 합니다.\n\n북한은 힘으로 긋겠다며\n1년째 걷어차고 있는데\n언제까지 짝사랑입니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 충돌 막으려면 대화 필요\n2 도발엔 단호한 대응이 먼저\n\n📌 출처: MBC 10.24 · 연합뉴스 10.23 · 뉴스1 10.23 · 중앙일보 10.23\n📷 사진: AlfvanBeem, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-25T03:42:23",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "MBC",
+    "url": "https://n.news.naver.com/mnews/article/214/0001531132",
+    "time": "2026-10-24 00:40:22"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016397261",
+    "time": "2026-10-23 16:02:05"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009247103",
+    "time": "2026-10-23 17:26:15"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003560080",
+    "time": "2026-10-23 15:56:08"
+   }
+  ]
+ },
+ {
+  "id": "20261025-04",
+  "title": "산업화 성취, 당당하게 평가할 때다",
+  "caption": "<산업화 성취, 당당하게 평가할 때다>\n\n국회서 열린 박정희 포럼,\n민주당은 또 독재 미화라며\n비판부터 쏟아냅니다…\n\n산업화 기적이 없었다면\n오늘의 번영이 있었을까요.\n당당한 역사 평가 위에서\n더 밝은 미래가 열립니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 산업화 공로 인정해야\n2 독재 미화에 불과하다\n\n📌 출처: 오마이뉴스 10.24 · 한겨레 10.24 · 시사저널 10.24 · 한국일보 10.24\n📷 사진: National Assembly for Wales, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-25T03:49:42",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002533341",
+    "time": "2026-10-24 15:16:16"
+   },
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002828966",
+    "time": "2026-10-24 11:38:09"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000140786",
+    "time": "2026-10-24 12:30:10"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000961386",
+    "time": "2026-10-24 11:52:11"
+   }
+  ]
  }
 ]
