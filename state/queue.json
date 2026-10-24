@@ -892,7 +892,7 @@
   "caption": "<조희대 탄핵 반대 39%, 민심 역행하나>\n\n한국갤럽 반대 39% 찬성 34%.\n중도층도 34% 동률로 팽팽합니다.\n\n김민석 대표가 꺼낸 탄핵 논의…\n과연 누구를 위한 탄핵입니까?\n\n사법부 흔들기를 당장 멈추십시오.\n\n여러분 생각은? 댓글로 1 또는 2\n1 무리한 탄핵 폭주\n2 사법부 탄핵 찬성\n\n📌 출처: kbc광주방송 10.23 · MBN 10.23 · 연합뉴스 10.23 · 뉴스1 10.23\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
   "cards": 4,
   "made": "2026-10-24T03:09:50",
-  "status": "ready",
+  "status": "failed",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -918,7 +918,9 @@
     "url": "https://n.news.naver.com/mnews/article/421/0009245922",
     "time": "2026-10-23 10:57:30"
    }
-  ]
+  ],
+  "error": "HTTP 400 code=9004 sub=2207052 Only photo or video can be accepted as media type.",
+  "failed_at": "2026-10-24T15:30:17+09:00"
  },
  {
   "id": "20261024-04",
