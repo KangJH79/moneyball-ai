@@ -1091,5 +1091,115 @@
     "time": "2026-10-24 11:52:11"
    }
   ]
+ },
+ {
+  "id": "20261026-01",
+  "title": "10·26 47주기, 박정희의 18년",
+  "caption": "<10·26 47주기, 박정희의 18년>\n\n1961년 5·16부터 18년의 세월,\n경제 재건과 자주국방의 기틀을 닦았습니다.\n선열들의 피맺힌 돈으로 제철소를 세웠고,\n가난한 옛 벗을 지프에 태우던 지도자였습니다.\n삽교천 행사 후 현충사 상공을 돌아보던 날,\n궁정동 안가의 총격으로 서거하였습니다.\n10·26 47주기, 현충원의 영면을 기립니다.\n출처: 위키백과 박정희·10·26 사건\n\n📌 출처: 위키백과\n📷 사진: Korea.net / Korean Culture and Informati, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음 / Unknown author Unknown author, Public domain · 잘라서 글자 얹음 / Kys951, Public domain · 잘라서 글자 얹음",
+  "cards": 6,
+  "made": "2026-10-26T03:08:22",
+  "status": "ready",
+  "template": "story",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": []
+ },
+ {
+  "id": "20261026-02",
+  "title": "무죄 나오자 대법원장 탄핵?",
+  "caption": "<무죄 나오자 대법원장 탄핵?>\n\n오세훈 서울시장의 2심 무죄 판결이\n나오자마자 여권이 들끓고 있습니다.\n판결이 마음에 들지 않는다고\n대법원장 탄핵을 밀어붙이다니…\n야당은 사법부 스토킹이자\n함정 조사라며 정면 반발했습니다.\n사법부 독립과 법치를 지키려는\n국민들의 뜨거운 응원이 필요합니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 법치주의 훼손이다\n2 국정조사 필요하다\n\n📌 출처: 디지털타임스 10.25 · 뉴스1 10.25 · 한국일보 10.25\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / Seoul Institute, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 7,
+  "made": "2026-10-26T03:09:55",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003054961",
+    "time": "2026-10-25 05:10:00"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009247851",
+    "time": "2026-10-25 06:00:00"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000961540",
+    "time": "2026-10-25 18:21:10"
+   }
+  ]
+ },
+ {
+  "id": "20261026-03",
+  "title": "결국 법무장관도 '대통령 변호인'인가",
+  "caption": "<결국 법무장관도 '대통령 변호인'인가>\n\n두 달 공석 법무장관에\n또 '대통령 변호인'들…\n\n공소취소 외치던 이들이\n법무행정 맡는다니요.\n\n법치가 방탄 수단입니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 대통령 방탄용 인사\n2 검찰개혁 적임자\n\n📌 출처: TV조선 10.25 · 매일신문 10.25 · 조선일보 10.26 · JIBS 10.25\n📷 사진: Edo Dijkgraaf, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) · 잘라서 글자 얹음",
+  "cards": 4,
+  "made": "2026-10-26T03:10:58",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000646805",
+    "time": "2026-10-25 13:57:06"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001036448",
+    "time": "2026-10-25 21:38:17"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004005892",
+    "time": "2026-10-26 00:45:14"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000085505",
+    "time": "2026-10-25 10:40:15"
+   }
+  ]
+ },
+ {
+  "id": "20261026-04",
+  "title": "소방관 '빨대'라더니 '화형' 타령?",
+  "caption": "<소방관 '빨대'라더니 '화형' 타령?>\n\n소방관을 '빨대'라 부르더니\n이제는 '화형'을 꺼냅니다.\n\n거센 비판이 쏟아지자\n느닷없이 순교자 흉내인가요.\n\n국민이 분노한 이유를\n정말 모르시는 겁니까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 실언 덮으려는 영웅 흉내\n2 재정 혁신 위한 소신 발언\n\n📌 출처: 파이낸셜뉴스 10.25 · 연합뉴스 10.25 · 데일리안 10.25 · 중앙일보 10.25\n📷 사진: National Assembly (South Korea), KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 델리민주 [더불어민주당], CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 대한민국 법무부, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-26T03:12:10",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "파이낸셜뉴스",
+    "url": "https://n.news.naver.com/mnews/article/014/0005593899",
+    "time": "2026-10-25 10:16:17"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016398553",
+    "time": "2026-10-25 09:00:09"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003146758",
+    "time": "2026-10-25 17:56:13"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003560246",
+    "time": "2026-10-25 11:14:08"
+   }
+  ]
  }
 ]
