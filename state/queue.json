@@ -1242,7 +1242,7 @@
   "caption": "<박정희 정신으로 잘 사는 국민의 시대>\n\n박정희 47주기 추모식,\n오세훈 시장이 직접 마이크를\n잡았습니다.\n\n산업화의 위대한 기틀 위,\n이제 잘 사는 국민의 시대로\n성장의 결실을 나눌 때…\n진짜 번영이 시작됩니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 공감, 새로운 도약 필요\n2 신중해야, 더 지켜보자\n\n📌 출처: 매일경제 10.26 · 뉴스1 10.26 · 머니투데이 10.26 · 중앙일보 10.26\n📷 사진: MBC PD Note, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 최광모, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-10-27T03:21:23",
-  "status": "ready",
+  "status": "failed",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -1268,7 +1268,9 @@
     "url": "https://n.news.naver.com/mnews/article/025/0003560533",
     "time": "2026-10-26 15:18:25"
    }
-  ]
+  ],
+  "error": "HTTP 400 code=9007 sub=2207027 Media ID is not available",
+  "failed_at": "2026-10-27T12:41:00+09:00"
  },
  {
   "id": "20261027-03",
