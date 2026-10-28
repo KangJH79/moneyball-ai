@@ -1474,5 +1474,136 @@
     "time": "2026-10-27 10:36:11"
    }
   ]
+ },
+ {
+  "id": "20261029-01",
+  "title": "대통령의 SNS 정면 반박",
+  "caption": "<대통령의 SNS 정면 반박>\n\n검찰개혁, 농지조사, 외국인 노동자.\n논란마다 직접 등판했다.\n\n언론엔 정정과 사과를 요구했다.\n여권 강경파엔 \"무책임한 극단주의\"라 했다.\n\n소통일까, 갈등의 불씨일까…\n출처: 연합뉴스·중앙일보·서울경제\n\n여러분 생각은? 댓글로 1 또는 2\n1 직접 소통 필요\n2 갈등만 키운다\n\n📌 출처: 서울경제 10.28 · 연합뉴스 10.28 · 중앙일보 10.28 · 시사저널 10.28\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-29T03:10:15",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004675947",
+    "time": "2026-10-28 09:41:10"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016404880",
+    "time": "2026-10-28 08:34:28"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003561034",
+    "time": "2026-10-28 08:24:39"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000141019",
+    "time": "2026-10-28 10:29:09"
+   }
+  ]
+ },
+ {
+  "id": "20261029-02",
+  "title": "대법원장 국정조사 공방",
+  "caption": "<대법원장 국정조사 공방>\n\n정점식 원내대표의 비판\n휴대전화 교체내역 조회 논란\n\n국민의힘 \"강경 대처\" 예고\n민주당은 11월 5일 보고 예정\n\n여야, 대화로 풀 길 찾을까?\n여러분의 생각을 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 국정조사 필요\n2 사법부 압박\n\n📌 출처: 데일리안 10.28 · 중앙일보 10.28 · 뉴시스 10.28 · 더팩트 10.28\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-29T03:11:19",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003147946",
+    "time": "2026-10-28 09:52:11"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003561055",
+    "time": "2026-10-28 10:06:01"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014285209",
+    "time": "2026-10-28 16:01:54"
+   },
+   {
+    "press": "더팩트",
+    "url": "https://n.news.naver.com/mnews/article/629/0000546594",
+    "time": "2026-10-28 21:04:09"
+   }
+  ]
+ },
+ {
+  "id": "20261029-03",
+  "title": "고발엔 맞고발, 진실은 수사로",
+  "caption": "<고발엔 맞고발, 진실은 수사로>\n\n민주당, 주진우 의원 고발\n명예훼손 혐의라고 밝혔다\n\n주 의원은 내일 맞고발 예고\n차명예약 직권남용 의혹 주장\n\n누구 말이 맞는지는 수사가 가린다\n\n여러분 생각은? 댓글로 1 또는 2\n1 수사로 가려야\n2 정쟁일 뿐\n\n📌 출처: 머니투데이 10.28 · 중앙일보 10.28 · 미디어오늘 10.28 · 뉴스1 10.28\n📷 사진: User:G43, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-29T03:12:14",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005433097",
+    "time": "2026-10-28 16:49:30"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003561122",
+    "time": "2026-10-28 14:33:34"
+   },
+   {
+    "press": "미디어오늘",
+    "url": "https://n.news.naver.com/mnews/article/006/0000138447",
+    "time": "2026-10-28 16:45:07"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009255638",
+    "time": "2026-10-28 14:38:42"
+   }
+  ]
+ },
+ {
+  "id": "20261029-04",
+  "title": "여당 중진 만찬 말말말",
+  "caption": "<여당 중진 만찬 말말말>\n\n이재명 대통령이 28일\n민주당 5선 이상 중진 9명을\n청와대로 불렀다.\n대통령은 당의 말과 행동에서도\n책임 있는 모습을 보여야 한다고 했다.\n같은 날 정성호 의원은 방송에서\n대통령 SNS를 조금 줄이는 것도\n좋지 않겠냐고 했다.\n대통령은 국민께 성과로 답하겠다고 했다.\n출처: 연합뉴스, 연합뉴스TV, 디지털타임스\n\n여러분 생각은? 댓글로 1 또는 2\n1 줄이는 게 낫다\n2 직접 소통해야\n\n📌 출처: 디지털타임스 10.29 · 연합뉴스 10.28 · 연합뉴스TV 10.29\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음 / 이재명tv, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 7,
+  "made": "2026-10-29T03:14:14",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003055921",
+    "time": "2026-10-29 00:17:02"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016407329",
+    "time": "2026-10-28 22:27:59"
+   },
+   {
+    "press": "연합뉴스TV",
+    "url": "https://n.news.naver.com/mnews/article/422/0000920556",
+    "time": "2026-10-29 00:16:13"
+   }
+  ]
  }
 ]
