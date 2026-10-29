@@ -1605,5 +1605,141 @@
     "time": "2026-10-29 00:16:13"
    }
   ]
+ },
+ {
+  "id": "20261030-01",
+  "title": "국방위원장 미국 비자 거부",
+  "caption": "<국방위원장 미국 비자 거부>\n\n국방위원장이 미국 비자를 거부당했다.\n사유는 공개되지 않았다.\n\n국민의힘은 한미동맹 균열이라 하고,\n정부는 한미 관계와 무관하다고 한다.\n\n국민이 궁금한 건 하나다.\n도대체 사유가 뭔가.\n\n여러분 생각은? 댓글로 1 또는 2\n1 한미관계 이상신호\n2 단순 실무 심사\n\n📌 출처: 연합뉴스 10.29 · 한국일보 10.29 · 뉴시스 10.30 · 매일신문 10.29\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-30T03:17:00",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016410386",
+    "time": "2026-10-29 20:36:03"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000962324",
+    "time": "2026-10-29 09:39:12"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014289230",
+    "time": "2026-10-30 01:18:38"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001037128",
+    "time": "2026-10-29 10:30:13"
+   }
+  ]
+ },
+ {
+  "id": "20261030-03",
+  "title": "관저 아빠 찬스 논란",
+  "caption": "<관저 아빠 찬스 논란>\n\n대통령 차남이 관저에 산다…\n국감에서 확인됐습니다.\n\n야당은 '아빠 찬스'라 했고\n비서실장은 '과한 표현'이라 했죠.\n\n청년들은 어떻게 볼까요?\n출처: TV조선·중앙일보\n\n여러분 생각은? 댓글로 1 또는 2\n1 부적절하다\n2 과한 비판이다\n\n📌 출처: 중앙일보 10.30 · TV조선 10.29 · 채널A 10.29 · 주간조선 10.29\n📷 사진: 이데일리TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-30T03:22:51",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003561633",
+    "time": "2026-10-30 00:40:05"
+   },
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000647655",
+    "time": "2026-10-29 08:44:17"
+   },
+   {
+    "press": "채널A",
+    "url": "https://n.news.naver.com/mnews/article/449/0000365787",
+    "time": "2026-10-29 22:07:32"
+   },
+   {
+    "press": "주간조선",
+    "url": "https://n.news.naver.com/mnews/article/053/0000062688",
+    "time": "2026-10-29 23:33:07"
+   }
+  ]
+ },
+ {
+  "id": "20261030-05",
+  "title": "임광현 실장, 장관 5명 낙마 송구",
+  "caption": "<임광현 실장, 장관 5명 낙마 송구>\n\n\"국민들께 송구스럽게 생각한다\"\n\n장관 후보 5명이 낙마했습니다.\n야당은 김현지 부속실장 영향력을 물었습니다.\n실장은 \"시스템으로 이뤄진다\"고 답했습니다.\n사과 다음은 검증 결과로 보여 주세요.\n\n여러분 생각은? 댓글로 1 또는 2\n1 믿기 어렵다\n2 지켜보겠다\n\n📌 출처: 헤럴드경제 10.29 · 중앙일보 10.29 · 머니투데이 10.29 · 경향신문 10.29\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / OSCE Parliamentary Assembly, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-30T03:30:05",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "헤럴드경제",
+    "url": "https://n.news.naver.com/mnews/article/016/0002716285",
+    "time": "2026-10-29 16:36:09"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003561507",
+    "time": "2026-10-29 17:19:55"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005433918",
+    "time": "2026-10-29 17:33:02"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003479489",
+    "time": "2026-10-29 18:20:00"
+   }
+  ]
+ },
+ {
+  "id": "20261030-06",
+  "title": "주민은 들었다, 국정원은 아니라 한다",
+  "caption": "<주민은 들었다, 국정원은 아니라 한다>\n\n대남 확성기 소리 들었다는 주민들\n국정원은 \"사실이 아니다\"\n합참도 확인된 바 없다고 했다\n\n그런데 같은 날 미사일 10여 발\n주민 말과 정부 설명, 누가 맞을까…\n\n출처: 뉴스1·연합뉴스·조선일보\n\n여러분 생각은? 댓글로 1 또는 2\n1 주민 증언이 맞다\n2 국정원 설명이 맞다\n\n📌 출처: 디지털타임스 10.29 · 조선일보 10.30 · 연합뉴스 10.29 · 뉴스1 10.29\n📷 사진: The White House, Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-30T03:37:25",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003056166",
+    "time": "2026-10-29 18:36:09"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004006829",
+    "time": "2026-10-30 00:58:14"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016409864",
+    "time": "2026-10-29 16:57:23"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009259179",
+    "time": "2026-10-29 19:12:20"
+   }
+  ]
  }
 ]
