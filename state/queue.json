@@ -1741,5 +1741,141 @@
     "time": "2026-10-29 19:12:20"
    }
   ]
+ },
+ {
+  "id": "20261031-01",
+  "title": "다문화 우대, 어디까지?",
+  "caption": "<다문화 우대, 어디까지?>\n\n이 대통령이 연일 직접 나섰다.\n\"소액, 소량이라고 불공정해도 되는 건 아니다\"\n\n서울시는 26개 사업을 들여다보는 중…\n소득 기준, 가점 하향까지 검토한다.\n\n공정은 양의 다과와 무관하다는 말,\n이번엔 정책으로 이어질까?\n\n여러분 생각은? 댓글로 1 또는 2\n1 소득 기준 필요\n2 현행 유지\n\n📌 출처: TV조선 10.30 · 한국일보 10.30 · 문화일보 10.30 · 조선일보 10.31\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-31T03:10:38",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000648057",
+    "time": "2026-10-30 20:28:18"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000962581",
+    "time": "2026-10-30 04:31:12"
+   },
+   {
+    "press": "문화일보",
+    "url": "https://n.news.naver.com/mnews/article/021/0002829091",
+    "time": "2026-10-30 11:29:26"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004007030",
+    "time": "2026-10-31 00:53:15"
+   }
+  ]
+ },
+ {
+  "id": "20261031-02",
+  "title": "820조 예산 전쟁 시작",
+  "caption": "<820조 예산 전쟁 시작>\n\n820조원 예산안 심사 돌입\n\n국민의힘 정점식 원내대표\n\"200조 포퓰리즘 자유이용권\"\n건전 재정이면 협력하겠다고도 했다\n\n미래대응기금, 여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 미래 투자 필요\n2 재정 건전성 우선\n\n📌 출처: 머니투데이 10.30 · 연합뉴스 10.30 · 매일경제 10.30 · 헤럴드경제 10.30\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-31T03:11:59",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005434226",
+    "time": "2026-10-30 11:16:21"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016412579",
+    "time": "2026-10-30 17:43:01"
+   },
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005756686",
+    "time": "2026-10-30 16:37:15"
+   },
+   {
+    "press": "헤럴드경제",
+    "url": "https://n.news.naver.com/mnews/article/016/0002716677",
+    "time": "2026-10-30 11:35:12"
+   }
+  ]
+ },
+ {
+  "id": "20261031-03",
+  "title": "국민 아버지, 최불암 별세",
+  "caption": "<국민 아버지, 최불암 별세>\n\n배우 최불암 씨, 향년 87세.\n\n수사반장 18년,\n전원일기 22년,\n한국인의 밥상 14년.\n\n그 이름 앞에 고개를 숙입니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 수사반장\n2 전원일기\n\n📌 출처: YTN 10.30 · 동아일보 10.29 · KBS 10.30 · MBC 10.30\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-31T03:13:18",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "YTN",
+    "url": "https://n.news.naver.com/mnews/article/052/0002426180",
+    "time": "2026-10-30 16:36:54"
+   },
+   {
+    "press": "동아일보",
+    "url": "https://n.news.naver.com/mnews/article/020/0003758758",
+    "time": "2026-10-29 20:14:14"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012284090",
+    "time": "2026-10-30 10:24:16"
+   },
+   {
+    "press": "MBC",
+    "url": "https://n.news.naver.com/mnews/article/214/0001532511",
+    "time": "2026-10-30 14:59:22"
+   }
+  ]
+ },
+ {
+  "id": "20261031-05",
+  "title": "신천지 의혹, 보고는 언제",
+  "caption": "<신천지 의혹, 보고는 언제>\n\n민주당 신천지 의혹 조사 결과\n3~4일께 의총 보고 예정\n\n이성윤 최고위원은 공개 압박\n지도부는 구체 내용 아직 비공개\n\n출처: 뉴시스·한겨레·프레시안\n\n여러분 생각은? 댓글로 1 또는 2\n1 수사기관에 맡겨야\n2 당내 조사로 충분\n\n📌 출처: 서울경제 10.30 · 한겨레 10.30 · 프레시안 10.30 · 뉴시스 10.30\n📷 사진: 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-10-31T03:15:12",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004677012",
+    "time": "2026-10-30 11:24:19"
+   },
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002830026",
+    "time": "2026-10-30 17:26:09"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002463629",
+    "time": "2026-10-30 18:35:09"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014290117",
+    "time": "2026-10-30 11:23:09"
+   }
+  ]
  }
 ]
