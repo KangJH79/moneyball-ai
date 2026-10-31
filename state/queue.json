@@ -1877,5 +1877,73 @@
     "time": "2026-10-30 11:23:09"
    }
   ]
+ },
+ {
+  "id": "20261101-02",
+  "title": "한동훈 \"연대는 명분으로\"",
+  "caption": "<한동훈 \"연대는 명분으로\">\n\n친분 아닌 명분으로 하는 연대.\n오세훈 시장과의 연대 질문에\n한동훈 의원이 내놓은 답입니다.\n\n\"국민께서 보고 계신다.\n마음대로 해보라\"\n\n여러분의 생각은 어떤가요? 👇\n\n여러분 생각은? 댓글로 1 또는 2\n1 친분보다 명분\n2 명분도 친분도\n\n📌 출처: SBS 10.30 · 경기일보 10.30 · 시사저널 10.30 · 오마이뉴스 10.30\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-01T04:27:52",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "SBS",
+    "url": "https://n.news.naver.com/mnews/article/055/0001399503",
+    "time": "2026-10-30 18:57:20"
+   },
+   {
+    "press": "경기일보",
+    "url": "https://n.news.naver.com/mnews/article/666/0000129956",
+    "time": "2026-10-30 20:37:10"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000141268",
+    "time": "2026-10-30 15:29:11"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002534075",
+    "time": "2026-10-30 15:21:28"
+   }
+  ]
+ },
+ {
+  "id": "20261101-03",
+  "title": "북한 드론 과시, 우리는?",
+  "caption": "<북한 드론 과시, 우리는?>\n\n북한이 드론 30종을 공개했습니다.\n우리 GP·K9 모형을 겨냥했습니다.\n국산 공격형 드론은 사실상 없다는데…\n국방부도 '심각한 문제'라고 했습니다.\n\n출처: KBS·조선일보·매일신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 드론 전력화 시급\n2 절차 지키며 신중히\n\n📌 출처: KBS 10.30 · 세계일보 10.31 · 조선일보 10.31 · 매일신문 10.31\n📷 사진: Marcellablues, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-01T05:00:14",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012284475",
+    "time": "2026-10-30 21:02:21"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004171321",
+    "time": "2026-10-31 14:32:10"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004007035",
+    "time": "2026-10-31 00:57:12"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001037542",
+    "time": "2026-10-31 09:53:11"
+   }
+  ]
  }
 ]
