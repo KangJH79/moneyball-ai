@@ -2013,5 +2013,68 @@
     "time": "2026-10-31 19:13:12"
    }
   ]
+ },
+ {
+  "id": "20261102-03",
+  "title": "동물농장 논란 말말말",
+  "caption": "<동물농장 논란 말말말>\n\n현직 판사의 '동물농장' 글 하나에…\n조국 원장은 '법관의 저항을 선동'이라 했고\n장동혁 대표는 '용기 있는 행동'이라 했다…\n민주당은 '사법부는 성역이 아니다'라는 입장.\n사법부 독립인가, 국회의 통제인가.\n여러분의 생각은?\n출처: 오마이뉴스·TV조선·프레시안 11월 1일\n\n여러분 생각은? 댓글로 1 또는 2\n1 정당한 문제 제기\n2 정치적 행동\n\n📌 출처: TV조선 11.01 · 오마이뉴스 11.01 · 프레시안 11.01\n📷 사진: 델리민주 [더불어민주당 ], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Seoul Institute, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 8,
+  "made": "2026-11-02T03:08:09",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000648269",
+    "time": "2026-11-01 14:59:31"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002534191",
+    "time": "2026-11-01 12:11:12"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002463710",
+    "time": "2026-11-01 15:00:12"
+   }
+  ]
+ },
+ {
+  "id": "20261102-05",
+  "title": "예산 30조 줄이고 민생 늘린다",
+  "caption": "<예산 30조 줄이고 민생 늘린다>\n\n국민의힘, 내년 예산안\n30조 원 감액 추진\n일자리·돌봄·안전·청년\n5대 분야 예산은 늘린다\n\n3일 장동혁 대표 발표\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 30조 감액 찬성\n2 미래 투자 우선\n\n📌 출처: 조선비즈 11.01 · 뉴시스 11.01 · 더팩트 11.01 · CJB청주방송 11.01\n📷 사진: ChongDae, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-02T03:10:08",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선비즈",
+    "url": "https://n.news.naver.com/mnews/article/366/0001201780",
+    "time": "2026-11-01 16:16:10"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014293119",
+    "time": "2026-11-01 15:41:17"
+   },
+   {
+    "press": "더팩트",
+    "url": "https://n.news.naver.com/mnews/article/629/0000547608",
+    "time": "2026-11-01 16:13:08"
+   },
+   {
+    "press": "CJB청주방송",
+    "url": "https://n.news.naver.com/mnews/article/655/0000033401",
+    "time": "2026-11-01 14:41:06"
+   }
+  ]
  }
 ]
