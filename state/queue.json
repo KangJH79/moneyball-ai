@@ -2076,5 +2076,73 @@
     "time": "2026-11-01 14:41:06"
    }
   ]
+ },
+ {
+  "id": "20261102-06",
+  "title": "주진우 57곳 불일치 주장",
+  "caption": "<주진우 57곳 불일치 주장>\n\n개표상황표와 전산 결과가\n다르다는 주장이 나왔다.\n\n주진우 의원은 특검에\n자료를 전달할 예정이다.\n\n원인은 아직 확인 전.\n숫자는 검증으로 답하자.\n\n여러분 생각은? 댓글로 1 또는 2\n1 자료부터 공개 검증\n2 특검 결과 보고 판단\n\n📌 출처: 강원도민일보 11.01 · 프레시안 11.01 · 데일리안 11.01 · 주간조선 11.01\n📷 사진: 국민의힘TV (People Power Party), CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-02T04:39:51",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "강원도민일보",
+    "url": "https://n.news.naver.com/mnews/article/654/0000208651",
+    "time": "2026-11-01 16:02:10"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002463734",
+    "time": "2026-11-01 18:59:11"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003149823",
+    "time": "2026-11-01 14:39:07"
+   },
+   {
+    "press": "주간조선",
+    "url": "https://n.news.naver.com/mnews/article/053/0000062762",
+    "time": "2026-11-01 23:40:06"
+   }
+  ]
+ },
+ {
+  "id": "20261102-10",
+  "title": "수출 9천억 달러, 그 다음은",
+  "caption": "<수출 9천억 달러, 그 다음은>\n\n누적 수출 사상 첫 9천억 달러.\n반도체 호황이 끌어올렸습니다.\n\n이 대통령은 \"감격\"이라 했습니다.\n하지만 반도체 의존은 과제로 남습니다.\n\n내일은 820조 9천억 원 예산안 시정연설.\n호황의 열매, 어디에 쓸까요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 국민 몫으로 돌려야\n2 미래 투자가 먼저\n\n📌 출처: KBS 11.01 · 강원일보 11.01 · 아시아경제 11.01 · 시사저널 11.01\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-02T04:42:20",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012284934",
+    "time": "2026-11-01 11:35:55"
+   },
+   {
+    "press": "강원일보",
+    "url": "https://n.news.naver.com/mnews/article/087/0001227694",
+    "time": "2026-11-01 15:30:07"
+   },
+   {
+    "press": "아시아경제",
+    "url": "https://n.news.naver.com/mnews/article/277/0005836256",
+    "time": "2026-11-01 11:28:19"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000141344",
+    "time": "2026-11-01 15:25:08"
+   }
+  ]
  }
 ]
