@@ -1945,5 +1945,73 @@
     "time": "2026-10-31 09:53:11"
    }
   ]
+ },
+ {
+  "id": "20261101-06",
+  "title": "돼지 눈에는 돼지만?",
+  "caption": "<돼지 눈에는 돼지만?>\n\n순방 비판에 돌아온 건\n'돼지 눈에는 돼지만'…\n\n국민의힘은 국민 모욕이라 했다\n민주당은 SNS 소통 보완을 말했다\n\n말싸움 말고 성과로 답할 차례\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 성과로 답해야\n2 과한 정치공세\n\n📌 출처: 한국일보 11.01 · 미디어오늘 11.01 · 부산일보 11.01 · 뉴스1 10.31\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-01T20:01:51",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000962859",
+    "time": "2026-11-01 11:53:11"
+   },
+   {
+    "press": "미디어오늘",
+    "url": "https://n.news.naver.com/mnews/article/006/0000138509",
+    "time": "2026-11-01 13:28:18"
+   },
+   {
+    "press": "부산일보",
+    "url": "https://n.news.naver.com/mnews/article/082/0001405053",
+    "time": "2026-11-01 17:55:12"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009262205",
+    "time": "2026-10-31 16:41:53"
+   }
+  ]
+ },
+ {
+  "id": "20261101-08",
+  "title": "불편해야 효과가 있다?",
+  "caption": "<불편해야 효과가 있다?>\n\n이재명 대통령, 청송·영양 방문\n농어촌 기본소득 사용처 제한 두고\n\"불편한 만큼 효과가 있는 그런 제도\"\n\n스스로도 \"안정성이 많이 부족하다\"고 했다\n주민 불만은 \"잘 견뎌야\" 한다는데…\n여러분 생각은 어떠신가요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 불편해야 효과\n2 그냥 편히 쓰게\n\n📌 출처: 서울경제 10.31 · 연합뉴스 10.31 · 뉴스1 10.31 · 동아일보 10.31\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-01T20:03:17",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004677327",
+    "time": "2026-10-31 20:42:07"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016413433",
+    "time": "2026-10-31 19:19:43"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009262251",
+    "time": "2026-10-31 19:19:12"
+   },
+   {
+    "press": "동아일보",
+    "url": "https://n.news.naver.com/mnews/article/020/0003759128",
+    "time": "2026-10-31 19:13:12"
+   }
+  ]
  }
 ]
