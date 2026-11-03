@@ -2280,5 +2280,141 @@
     "time": "2026-11-02 13:48:17"
    }
   ]
+ },
+ {
+  "id": "20261104-01",
+  "title": "집값 하락 발언, 통계는?",
+  "caption": "<집값 하락 발언, 통계는?>\n\n대통령 \"실거래가 떨어진다\"\n하락 지역·하락률은 제시 안 해\n서울은 공식 통계 90주 연속 상승\n\n온라인선 분당집 매도 재조명\n청와대는 \"매수인 사정\" 해명\n\n여러분 생각은 어떠세요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 집값 하락 체감한다\n2 체감 못 한다\n\n📌 출처: 한국경제 11.03 · 파이낸셜뉴스 11.03 · 뉴시스 11.03 · JTBC 11.03\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-04T03:11:22",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국경제",
+    "url": "https://n.news.naver.com/mnews/article/015/0005349662",
+    "time": "2026-11-03 14:32:22"
+   },
+   {
+    "press": "파이낸셜뉴스",
+    "url": "https://n.news.naver.com/mnews/article/014/0005598430",
+    "time": "2026-11-03 09:23:12"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014298673",
+    "time": "2026-11-03 16:35:41"
+   },
+   {
+    "press": "JTBC",
+    "url": "https://n.news.naver.com/mnews/article/437/0000518924",
+    "time": "2026-11-03 18:05:24"
+   }
+  ]
+ },
+ {
+  "id": "20261104-03",
+  "title": "조작기소 특검법 5일 처리 추진",
+  "caption": "<조작기소 특검법 5일 처리 추진>\n\n민주당, 특검법 당론 채택\n공소취소 조항은 삭제하기로\n수사팀 309명, 최대 200일\n\n국민의힘은 필리버스터 검토\n조희대 국조는 추가 논의로 보류\n\n여러분 생각은 어떠세요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 진상규명 필요\n2 방탄 입법이다\n\n📌 출처: 연합뉴스TV 11.03 · 뉴시스 11.03 · 세계일보 11.03 · 조선일보 11.04\n📷 사진: Thomas1313, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-04T03:16:36",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스TV",
+    "url": "https://n.news.naver.com/mnews/article/422/0000922496",
+    "time": "2026-11-03 17:25:10"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014298832",
+    "time": "2026-11-03 17:31:14"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004172208",
+    "time": "2026-11-03 18:52:10"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004007633",
+    "time": "2026-11-04 00:49:10"
+   }
+  ]
+ },
+ {
+  "id": "20261104-04",
+  "title": "김여정 직접 나선 바이낸스 해킹",
+  "caption": "<김여정 직접 나선 바이낸스 해킹>\n\n63억 달러가 털렸다.\nFBI는 북한 해킹조직을 지목했다.\n김여정은 '정치적 도발'이라 했다.\n통일부는 '상황 파악이 우선'이라 했다.\n제재 동참 여부는 답이 없었다.\n\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 강력 제재해야\n2 대화 병행해야\n\n📌 출처: 채널A 11.03 · 서울신문 11.03 · 뉴시스 11.03 · 이데일리 11.03\n📷 사진: Die russische Staatsduma, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-04T03:18:15",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "채널A",
+    "url": "https://n.news.naver.com/mnews/article/449/0000366231",
+    "time": "2026-11-03 15:05:14"
+   },
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003695366",
+    "time": "2026-11-03 17:06:16"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014297468",
+    "time": "2026-11-03 11:34:09"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006402709",
+    "time": "2026-11-03 11:54:11"
+   }
+  ]
+ },
+ {
+  "id": "20261104-05",
+  "title": "집값 하락, 어디까지 맞나",
+  "caption": "<집값 하락, 어디까지 맞나>\n\n대통령 \"놀라울 정도로 떨어져\"\n강남 3구는 8주째 하락\n하지만 서울 전체는 90주 연속 상승\n\n통계를 제대로 알리겠다는 정부\n어느 숫자를 보여줄지가 관건\n출처: 머니투데이·이데일리\n\n여러분 생각은? 댓글로 1 또는 2\n1 집값 하락 맞다\n2 일부만 본 것\n\n📌 출처: YTN 11.03 · 머니투데이 11.03 · 서울경제 11.04 · 이데일리 11.03\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-04T03:19:56",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "YTN",
+    "url": "https://n.news.naver.com/mnews/article/052/0002427944",
+    "time": "2026-11-03 21:01:14"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005436003",
+    "time": "2026-11-03 16:46:42"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004678407",
+    "time": "2026-11-04 01:31:09"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006402846",
+    "time": "2026-11-03 14:59:17"
+   }
+  ]
  }
 ]
