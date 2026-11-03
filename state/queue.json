@@ -2389,7 +2389,7 @@
   "caption": "<집값 하락, 어디까지 맞나>\n\n대통령 \"놀라울 정도로 떨어져\"\n강남 3구는 8주째 하락\n하지만 서울 전체는 90주 연속 상승\n\n통계를 제대로 알리겠다는 정부\n어느 숫자를 보여줄지가 관건\n출처: 머니투데이·이데일리\n\n여러분 생각은? 댓글로 1 또는 2\n1 집값 하락 맞다\n2 일부만 본 것\n\n📌 출처: YTN 11.03 · 머니투데이 11.03 · 서울경제 11.04 · 이데일리 11.03\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-04T03:19:56",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -2414,6 +2414,35 @@
     "press": "이데일리",
     "url": "https://n.news.naver.com/mnews/article/018/0006402846",
     "time": "2026-11-03 14:59:17"
+   }
+  ]
+ },
+ {
+  "id": "20261104-06",
+  "title": "증거 없다던 비밀연합, 그 뒤",
+  "caption": "<증거 없다던 비밀연합, 그 뒤>\n\n김민석 대표가 3일 의총에서 사과했습니다.\n'3자 비밀연합의 증거는 없었다'고 했습니다.\n전당대회 때 제기한 의혹이었습니다.\n정청래 전 대표는 공개 사과를 요구했습니다.\n책임 있는 조치도 밝히라고 했습니다.\n친명계 일각에선 '마무리하자'는 기류도 전해집니다.\n의혹을 먼저 꺼낸 쪽의 책임은 어디까지일까요.\n출처: SBS, 노컷뉴스, MBC\n\n여러분 생각은? 댓글로 1 또는 2\n1 이 정도면 충분\n2 더 책임져야\n\n📌 출처: SBS 11.03 · 노컷뉴스 11.04 · MBC 11.04\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 델리민주 [더불어민주당], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 7,
+  "made": "2026-11-04T07:04:56",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "SBS",
+    "url": "https://n.news.naver.com/mnews/article/055/0001400326",
+    "time": "2026-11-03 17:23:53"
+   },
+   {
+    "press": "노컷뉴스",
+    "url": "https://n.news.naver.com/mnews/article/079/0004206198",
+    "time": "2026-11-04 05:01:23"
+   },
+   {
+    "press": "MBC",
+    "url": "https://n.news.naver.com/mnews/article/214/0001533348",
+    "time": "2026-11-04 06:31:37"
    }
   ]
  }
