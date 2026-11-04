@@ -2445,5 +2445,73 @@
     "time": "2026-11-04 06:31:37"
    }
   ]
+ },
+ {
+  "id": "20261105-02",
+  "title": "필리버스터 예고, 조작기소 특검법",
+  "caption": "<필리버스터 예고, 조작기소 특검법>\n\n국민의힘 규탄대회 열었다\n\"이 대통령 재판 없애려는 입법 폭거\"\n(국민의힘 주장)\n\n5일 본회의 상정 시\n모든 법안 필리버스터 예고\n여러분 생각은 댓글로\n\n여러분 생각은? 댓글로 1 또는 2\n1 특검 필요하다\n2 방탄 특검이다\n\n📌 출처: KBS 11.04 · 뉴시스 11.04 · 연합뉴스 11.04 · 주간조선 11.04",
+  "cards": 5,
+  "made": "2026-11-05T03:31:53",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012287254",
+    "time": "2026-11-04 18:27:41"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014300801",
+    "time": "2026-11-04 12:38:42"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016422225",
+    "time": "2026-11-04 18:08:56"
+   },
+   {
+    "press": "주간조선",
+    "url": "https://n.news.naver.com/mnews/article/053/0000062839",
+    "time": "2026-11-04 23:16:06"
+   }
+  ]
+ },
+ {
+  "id": "20261105-05",
+  "title": "대통령 SNS, 의지의 문제?",
+  "caption": "<대통령 SNS, 의지의 문제?>\n\n총리의 답은 '의지가 강하다'.\n야당의 질문은 '검토는 했나'.\n\n말의 무게는 누가 지키나…\n여러분 생각은 어떤가요?\n\n출처: 연합뉴스·디지털타임스 등\n\n여러분 생각은? 댓글로 1 또는 2\n1 소통의 방식\n2 검토 없는 과잉\n\n📌 출처: 디지털타임스 11.04 · 중앙일보 11.04 · 연합뉴스 11.04 · 헤럴드경제 11.04\n📷 사진: 대한민국 국회, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-05T03:34:24",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003057219",
+    "time": "2026-11-04 18:55:51"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003562878",
+    "time": "2026-11-04 19:30:18"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016422222",
+    "time": "2026-11-04 18:06:19"
+   },
+   {
+    "press": "헤럴드경제",
+    "url": "https://n.news.naver.com/mnews/article/016/0002718957",
+    "time": "2026-11-04 18:14:19"
+   }
+  ]
  }
 ]
