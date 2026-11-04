@@ -2287,7 +2287,7 @@
   "caption": "<집값 하락 발언, 통계는?>\n\n대통령 \"실거래가 떨어진다\"\n하락 지역·하락률은 제시 안 해\n서울은 공식 통계 90주 연속 상승\n\n온라인선 분당집 매도 재조명\n청와대는 \"매수인 사정\" 해명\n\n여러분 생각은 어떠세요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 집값 하락 체감한다\n2 체감 못 한다\n\n📌 출처: 한국경제 11.03 · 파이낸셜뉴스 11.03 · 뉴시스 11.03 · JTBC 11.03\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-04T03:11:22",
-  "status": "ready",
+  "status": "published",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
