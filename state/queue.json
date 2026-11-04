@@ -2513,5 +2513,73 @@
     "time": "2026-11-04 18:14:19"
    }
   ]
+ },
+ {
+  "id": "20261105-06",
+  "title": "김민석 사과, 불은 안 꺼졌다",
+  "caption": "<김민석 사과, 불은 안 꺼졌다>\n\n비공개 의총에서 사과했지만\n친청계는 공개 사과를 요구\n의혹은 증거 없이 끝났는데\n책임은 누가 지나\n\n출처 KBS·머니투데이·이데일리\n\n여러분 생각은? 댓글로 1 또는 2\n1 공개 사과해야\n2 비공개 사과로 충분\n\n📌 출처: 데일리안 11.04 · KBS 11.04 · 머니투데이 11.05 · 이데일리 11.04\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-05T04:43:22",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003151412",
+    "time": "2026-11-04 18:00:11"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012286916",
+    "time": "2026-11-04 10:59:01"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005436801",
+    "time": "2026-11-05 04:04:00"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006403781",
+    "time": "2026-11-04 18:41:09"
+   }
+  ]
+ },
+ {
+  "id": "20261105-07",
+  "title": "집값 폭락 발언 논란",
+  "caption": "<집값 폭락 발언 논란>\n\n강남3구는 하락했지만\n서울 전체는 90주 연속 상승\n나머지 22개 구는 모두 올랐다\n\n대통령은 가짜뉴스라 했고\n오세훈 시장은 딴 세상이냐 물었다\n숫자는 누가 맞다고 할까요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 말 한마디 시비다\n2 현실 진단이 문제\n\n📌 출처: 디지털타임스 11.04 · 매일신문 11.04 · 데일리안 11.04 · JIBS 11.04\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-05T04:45:15",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003057030",
+    "time": "2026-11-04 10:38:38"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001038271",
+    "time": "2026-11-04 11:22:16"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003151432",
+    "time": "2026-11-04 20:00:10"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000086076",
+    "time": "2026-11-04 10:40:14"
+   }
+  ]
  }
 ]
