@@ -2581,5 +2581,136 @@
     "time": "2026-11-04 10:40:14"
    }
   ]
+ },
+ {
+  "id": "20261106-01",
+  "title": "한동훈 복당론, 다시 고개",
+  "caption": "<한동훈 복당론, 다시 고개>\n\n중진들이 먼저 나섰다\n김태호 \"대승적으로 추진\"\n윤상현 \"오동석장 연대\"\n\n장동혁 대표는 선 긋기\n\"거론할 시점 아니다\"\n\n복당의 문, 누가 열까…\n\n여러분 생각은? 댓글로 1 또는 2\n1 총선 전 복당\n2 지도부 뜻대로\n\n📌 출처: 조선일보 11.05 · JIBS 11.05 · 연합뉴스 11.05 · MBN 11.05\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Thomas1313, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-06T03:18:00",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004007951",
+    "time": "2026-11-05 14:23:09"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000086181",
+    "time": "2026-11-05 15:17:12"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016424878",
+    "time": "2026-11-05 17:10:05"
+   },
+   {
+    "press": "MBN",
+    "url": "https://n.news.naver.com/mnews/article/057/0001976874",
+    "time": "2026-11-05 17:54:14"
+   }
+  ]
+ },
+ {
+  "id": "20261106-02",
+  "title": "특전사 모델 워킹 교육 논란",
+  "caption": "<특전사 모델 워킹 교육 논란>\n\n특수작전 부대 장병에게\n패션모델 워킹 교육…\n\n부대 측도 \"부적절했다\"고 인정\n박충권 의원은 \"제정신들이 아니다\"\n\n여러분 생각은 어떠세요?\n출처: 매일신문·중앙일보·머니투데이\n\n여러분 생각은? 댓글로 1 또는 2\n1 부적절한 교육\n2 과한 정치공세\n\n📌 출처: 머니투데이 11.05 · 중앙일보 11.05 · 매일신문 11.05 · 이데일리 11.05\n📷 사진: U.S. Navy photo by Chief Mass Communicat, Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-06T03:18:57",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005437075",
+    "time": "2026-11-05 13:55:20"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003563038",
+    "time": "2026-11-05 11:19:36"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001038510",
+    "time": "2026-11-05 09:12:14"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006404187",
+    "time": "2026-11-05 13:42:15"
+   }
+  ]
+ },
+ {
+  "id": "20261106-03",
+  "title": "청해부대 작전 확대",
+  "caption": "<청해부대 작전 확대>\n\n임무구역 2배, 병력 395명으로\nP-8A 초계기 1대도 투입\n해적 활동 11건에서 36건으로\n\n호르무즈는 별도 동의안 필수\n국방부 설명입니다\n\n여러분 생각은 어떠세요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 해적·원유 위해 필요\n2 국회서 더 따져야\n\n📌 출처: SBS 11.06 · 조선일보 11.06 · 오마이뉴스 11.05 · 더팩트 11.05\n📷 사진: MC3 Declan Barnes, Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-06T03:19:48",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "SBS",
+    "url": "https://n.news.naver.com/mnews/article/055/0001401011",
+    "time": "2026-11-06 00:37:49"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004008108",
+    "time": "2026-11-06 00:45:14"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002534762",
+    "time": "2026-11-05 14:21:15"
+   },
+   {
+    "press": "더팩트",
+    "url": "https://n.news.naver.com/mnews/article/629/0000548978",
+    "time": "2026-11-05 10:46:14"
+   }
+  ]
+ },
+ {
+  "id": "20261106-04",
+  "title": "미래대응기금 말말말",
+  "caption": "<미래대응기금 말말말>\n\n예결위 이틀째, 미래대응기금 공방.\n송언석 의원은 100조원 넘게 빚내\n100조원 넘게 쌓는 게 맞느냐고 물었습니다.\n엄태영 의원은 5년 내 국가채무\n453조원 증가 예상을 거론했습니다.\n이연희 의원은 채무 감축과 성장 투자를\n동시에 하는 것이라고 반박했습니다.\n성장 투자라는 말이 빚의 면죄부가 될 수 있을까요.\n출처: 매일신문·뉴시스·전자신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 미래 투자다\n2 빚 폭탄이다\n\n📌 출처: 매일신문 11.05 · 뉴시스 11.06 · 전자신문 11.05\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / National Election Commission of South Ko, Attribution · 잘라서 글자 얹음 / MBC PD수첩, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 8,
+  "made": "2026-11-06T03:21:06",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001038683",
+    "time": "2026-11-05 16:16:15"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014305044",
+    "time": "2026-11-06 00:07:25"
+   },
+   {
+    "press": "전자신문",
+    "url": "https://n.news.naver.com/mnews/article/030/0003482608",
+    "time": "2026-11-05 14:02:15"
+   }
+  ]
  }
 ]
