@@ -2848,5 +2848,161 @@
     "time": "2026-11-06 18:34:45"
    }
   ]
+ },
+ {
+  "id": "20261108-02",
+  "title": "국힘 장외집회, 싸움은 지금부터",
+  "caption": "<국힘 장외집회, 싸움은 지금부터>\n\n7일 경복궁역 인근 집회\n당 추산 15만명 참석\n장동혁 \"탄핵만이 답\"\n\n민주당은 정치 공방 멈추라 반박\n9일·10일 청와대 앞 일정\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 집회 공감한다\n2 특검 취지 먼저 보자\n\n📌 출처: 조선일보 11.07 · 아이뉴스24 11.07 · 오마이뉴스 11.07 · 뉴시스 11.07\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-08T03:17:48",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004008348",
+    "time": "2026-11-07 16:54:14"
+   },
+   {
+    "press": "아이뉴스24",
+    "url": "https://n.news.naver.com/mnews/article/031/0001073104",
+    "time": "2026-11-07 18:24:07"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002534997",
+    "time": "2026-11-07 18:01:23"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014308050",
+    "time": "2026-11-07 18:18:42"
+   }
+  ]
+ },
+ {
+  "id": "20261108-04",
+  "title": "폭락장에 1000만원 인증",
+  "caption": "<폭락장에 1000만원 인증>\n\n코스피 6.02% 급락한 6일\n박용진 부위원장, ETF 매수 공개\nKODEX 200 128주, 1002만원\n\n누리꾼 \"저점에 샀다고 자랑하나\"\n박용진 \"야당 태도 무책임\"\n\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 시장 안정 메시지\n2 눈치 없는 인증샷\n\n📌 출처: 한국경제 11.06 · 중앙일보 11.07 · 이데일리 11.06 · 시사저널 11.07\n📷 사진: TV뉴스엔뷰, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-08T03:21:29",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국경제",
+    "url": "https://n.news.naver.com/mnews/article/015/0005351206",
+    "time": "2026-11-06 16:22:17"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003563498",
+    "time": "2026-11-07 12:53:11"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006405334",
+    "time": "2026-11-06 17:56:15"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000141821",
+    "time": "2026-11-07 18:07:08"
+   }
+  ]
+ },
+ {
+  "id": "20261108-05",
+  "title": "특검을 특검할 날?",
+  "caption": "<특검을 특검할 날?>\n\n유승민 전 의원의 SNS 글\n\n\"헛된 망상일 뿐\"\n정권이 바뀌면 달라질까\n\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 특검 우려 공감\n2 입법 절차 존중\n\n📌 출처: 문화일보 11.07 · JIBS 11.07 · 매일경제 11.07 · 뉴스1 11.07\n📷 사진: 최광모 (Choe Kwangmo), CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음 / Kwangmo, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-08T03:29:26",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "문화일보",
+    "url": "https://n.news.naver.com/mnews/article/021/0002831062",
+    "time": "2026-11-07 17:30:14"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000086277",
+    "time": "2026-11-07 15:22:11"
+   },
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005760376",
+    "time": "2026-11-07 16:20:08"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009276194",
+    "time": "2026-11-07 17:56:03"
+   }
+  ]
+ },
+ {
+  "id": "20261108-06",
+  "title": "조작기소 특검 말말말",
+  "caption": "<조작기소 특검 말말말>\n\n여당 주도로 통과된 조작기소 특검법.\n여권 안에서도 \"숙의가 필요했다\"는 말이 나왔습니다.\n수사 대상 12개 항목 중\n6개가 이 대통령 관련 사건입니다.\n대통령이 임명하는 특검이 대통령 사건을 본다…\n이게 이해충돌이 아니라면 무엇일까요.\n민주당은 진상규명이 목적이라고 하고,\n국민의힘은 탄핵과 재판 재개를 외칩니다.\n여러분의 생각은 어떤가요.\n출처: 동아일보·시사저널·아이뉴스24\n\n여러분 생각은? 댓글로 1 또는 2\n1 진상규명 필요\n2 자기 사건 이해충돌\n\n📌 출처: 동아일보 11.07 · 시사저널 11.07 · 연합뉴스 11.06 · 조선일보 11.07\n📷 사진: 이재명tv, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 서울의소리 Voice of Seoul News, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 9,
+  "made": "2026-11-08T03:31:02",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "동아일보",
+    "url": "https://n.news.naver.com/mnews/article/020/0003760717",
+    "time": "2026-11-07 01:43:19"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000141813",
+    "time": "2026-11-07 13:37:11"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016426959",
+    "time": "2026-11-06 17:33:57"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004008348",
+    "time": "2026-11-07 16:54:14"
+   },
+   {
+    "press": "아이뉴스24",
+    "url": "https://n.news.naver.com/mnews/article/031/0001073104",
+    "time": "2026-11-07 18:24:07"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002534997",
+    "time": "2026-11-07 18:01:23"
+   },
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003057615",
+    "time": "2026-11-07 17:13:56"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003481232",
+    "time": "2026-11-07 11:38:00"
+   }
+  ]
  }
 ]
