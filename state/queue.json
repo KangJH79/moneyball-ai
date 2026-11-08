@@ -2889,7 +2889,7 @@
   "caption": "<폭락장에 1000만원 인증>\n\n코스피 6.02% 급락한 6일\n박용진 부위원장, ETF 매수 공개\nKODEX 200 128주, 1002만원\n\n누리꾼 \"저점에 샀다고 자랑하나\"\n박용진 \"야당 태도 무책임\"\n\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 시장 안정 메시지\n2 눈치 없는 인증샷\n\n📌 출처: 한국경제 11.06 · 중앙일보 11.07 · 이데일리 11.06 · 시사저널 11.07\n📷 사진: TV뉴스엔뷰, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-08T03:21:29",
-  "status": "ready",
+  "status": "failed",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -2915,7 +2915,9 @@
     "url": "https://n.news.naver.com/mnews/article/586/0000141821",
     "time": "2026-11-07 18:07:08"
    }
-  ]
+  ],
+  "error": "HTTP 400 code=9007 sub=2207027 Media ID is not available",
+  "failed_at": "2026-11-08T12:40:32+09:00"
  },
  {
   "id": "20261108-05",
