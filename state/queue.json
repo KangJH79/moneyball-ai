@@ -3137,5 +3137,68 @@
     "time": "2026-11-08 08:44:14"
    }
   ]
+ },
+ {
+  "id": "20261110-03",
+  "title": "사관학교 통합, 육사만 쫓겨나나",
+  "caption": "<사관학교 통합, 육사만 쫓겨나나>\n\n해사·공사는 제자리,\n육사만 이전 가닥이라는 보도.\n\n대통령의 쿠데타 책임론이\n통합 명분과 겹친다는 비판…\n\n국방부 수정안은 이달 중 발표 예정.\n\n여러분 생각은? 댓글로 1 또는 2\n1 육사만 이전 반대\n2 통합 재검토 우선\n\n📌 출처: 세계일보 11.09 · 서울신문 11.08 · 한국일보 11.09 · 채널A 11.09\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-10T03:15:44",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004173748",
+    "time": "2026-11-09 18:48:11"
+   },
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003696926",
+    "time": "2026-11-08 19:59:15"
+   },
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000964447",
+    "time": "2026-11-09 11:55:11"
+   },
+   {
+    "press": "채널A",
+    "url": "https://n.news.naver.com/mnews/article/449/0000366842",
+    "time": "2026-11-09 11:42:15"
+   }
+  ]
+ },
+ {
+  "id": "20261110-05",
+  "title": "미래대응기금 말말말",
+  "caption": "<미래대응기금 말말말>\n\n미래대응기금을 두고 여야가 맞붙었습니다.\n국민의힘은 포퓰리즘 예산이라고 비판했습니다.\n민주당은 미래 성장동력 투자라고 맞받았습니다.\n세계일보는 기획처가 심사 근거 요구에\n'적합함' 한 줄만 냈다고 보도했습니다.\n여당 의원도 자체변경 한도에 재고를 요구했습니다.\n국회 통제 없는 돈, 여러분 생각은?\n출처: 뉴시스·세계일보·국민일보\n\n여러분 생각은? 댓글로 1 또는 2\n1 턱없이 부족\n2 충분하다\n\n📌 출처: 뉴시스 11.09 · 세계일보 11.09 · 국민일보 11.08\n📷 사진: National Election Commission of South Ko, Attribution · 잘라서 글자 얹음 / 대한민국 국회, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 8,
+  "made": "2026-11-10T03:18:06",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014310904",
+    "time": "2026-11-09 14:32:32"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004173720",
+    "time": "2026-11-09 17:51:08"
+   },
+   {
+    "press": "국민일보",
+    "url": "https://n.news.naver.com/mnews/article/005/0001883716",
+    "time": "2026-11-08 17:37:12"
+   }
+  ]
  }
 ]
