@@ -3268,5 +3268,39 @@
     "time": "2026-11-09 11:07:08"
    }
   ]
+ },
+ {
+  "id": "20261111-07",
+  "title": "신천지 공방, 출구가 안 보인다",
+  "caption": "<신천지 공방, 출구가 안 보인다>\n\n김민석 대표의 사과 이후에도\n당내 공방은 계속되고 있다.\n\n이성윤 최고위원은\n\"자료가 전혀 없다\"고 했고\n친명계는 입당 정황을 짚었다.\n\n여러분 생각은 어떠신가요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 김 대표 사과로 끝\n2 책임 규명 더 필요\n\n📌 출처: 연합뉴스 11.10 · 프레시안 11.10 · 시사저널 11.10 · 뉴스1 11.10\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-11T09:22:15",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016433136",
+    "time": "2026-11-10 11:53:00"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002465236",
+    "time": "2026-11-10 20:59:09"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000142001",
+    "time": "2026-11-10 17:00:12"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009281755",
+    "time": "2026-11-10 16:37:14"
+   }
+  ]
  }
 ]
