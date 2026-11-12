@@ -3613,5 +3613,73 @@
     "time": "2026-11-11 20:50:14"
    }
   ]
+ },
+ {
+  "id": "20261113-06",
+  "title": "복당 1도 없다는 장동혁",
+  "caption": "<복당 1도 없다는 장동혁>\n\n조작 징계 의혹이 불거졌다.\n장 대표는 복당 불가를 못 박았다.\n당 윤리위원은 출석을 거부했다.\n안철수 \"차라리 창당\"\n윤상현 \"분열의 늪이 두렵다\"\n\n누구 말이 맞는지 가려질까…\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 복당 불가 유지\n2 징계 재검토 필요\n\n📌 출처: MBN 11.12 · 오마이뉴스 11.12 · 데일리안 11.12 · 머니투데이 11.13\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-13T04:41:26",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "MBN",
+    "url": "https://n.news.naver.com/mnews/article/057/0001977946",
+    "time": "2026-11-12 19:21:10"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002535651",
+    "time": "2026-11-12 16:51:26"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003154385",
+    "time": "2026-11-12 12:01:10"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005440596",
+    "time": "2026-11-13 03:16:00"
+   }
+  ]
+ },
+ {
+  "id": "20261113-07",
+  "title": "박희승 \"후진국\" 발언 파문",
+  "caption": "<박희승 \"후진국\" 발언 파문>\n\n판사 출신 민주당 의원,\n탄핵 요구 지지자에게 발언…\n혁신당 \"사과하라\"\n논란 커지자 결국 사과\n그런데 탄핵 신중론은 유지\n당내 온도차, 어디까지 갈까…\n\n출처: 조선일보·연합뉴스·시사저널\n\n여러분 생각은? 댓글로 1 또는 2\n1 탄핵 추진해야\n2 신중해야\n\n📌 출처: 매일신문 11.12 · 조선일보 11.12 · 연합뉴스 11.12 · 시사저널 11.13\n📷 사진: ChongDae, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-13T04:47:38",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001040056",
+    "time": "2026-11-12 19:58:15"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004009269",
+    "time": "2026-11-12 15:53:09"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016439467",
+    "time": "2026-11-12 22:36:21"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000142170",
+    "time": "2026-11-13 00:00:13"
+   }
+  ]
  }
 ]
