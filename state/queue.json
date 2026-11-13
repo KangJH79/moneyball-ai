@@ -3681,5 +3681,141 @@
     "time": "2026-11-13 00:00:13"
    }
   ]
+ },
+ {
+  "id": "20261114-01",
+  "title": "김민석, 사법부에 선 넘지 말라",
+  "caption": "<김민석, 사법부에 선 넘지 말라>\n\n한덕수 구속 만료는 20일\n여당 대표의 경고 수위는 높다\n그런데 당 안은 갈린다\n탄핵이냐 국조냐 신중론이냐\n\n여러분 생각은?\n출처: 한국일보·데일리안\n\n여러분 생각은? 댓글로 1 또는 2\n1 사법부 압박 과하다\n2 경고할 만하다\n\n📌 출처: 한국일보 11.13 · 강원일보 11.13 · 뉴스1 11.13 · 데일리안 11.13\n📷 사진: 대한민국 국회 의장비서실, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-14T03:55:43",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국일보",
+    "url": "https://n.news.naver.com/mnews/article/469/0000965378",
+    "time": "2026-11-13 10:40:10"
+   },
+   {
+    "press": "강원일보",
+    "url": "https://n.news.naver.com/mnews/article/087/0001230692",
+    "time": "2026-11-13 11:23:08"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009286863",
+    "time": "2026-11-13 05:30:00"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003154632",
+    "time": "2026-11-13 05:30:15"
+   }
+  ]
+ },
+ {
+  "id": "20261114-02",
+  "title": "최민희 윤리감찰 지시",
+  "caption": "<최민희 윤리감찰 지시>\n\n처음엔 '맥락 왜곡'이라더니…\n청와대 부인 뒤엔 '헷갈렸다'.\n\n'하이에나 떼들' 발언까지.\n김민석 대표, 감찰 지시.\n\n사실은 기사에 있는 것만.\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 징계가 필요하다\n2 사과면 충분하다\n\n📌 출처: 머니투데이 11.12 · 주간경향 11.12 · kbc광주방송 11.13 · JIBS 11.13\n📷 사진: 이재명tv (Lee Jae-myung), CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-14T04:11:27",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005440578",
+    "time": "2026-11-12 22:02:03"
+   },
+   {
+    "press": "주간경향",
+    "url": "https://n.news.naver.com/mnews/article/033/0000053339",
+    "time": "2026-11-12 20:55:29"
+   },
+   {
+    "press": "kbc광주방송",
+    "url": "https://n.news.naver.com/mnews/article/660/0000121293",
+    "time": "2026-11-13 17:02:10"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000086546",
+    "time": "2026-11-13 09:25:11"
+   }
+  ]
+ },
+ {
+  "id": "20261114-04",
+  "title": "여당 지도부, 둘로 쪼개졌다",
+  "caption": "<여당 지도부, 둘로 쪼개졌다>\n\n최고위 시간에 기자회견…\n박성준 수석대변인은\n\"당을 분열시키는 집단행동\"이라 했고\n한민수 최고위원은\n\"감찰 대상은 김민석 대표\"라 했다.\n\n출처: 연합뉴스·조선일보·더팩트\n\n여러분 생각은? 댓글로 1 또는 2\n1 친청계 행동 부적절\n2 김 대표 운영 문제\n\n📌 출처: 더팩트 11.13 · 주간조선 11.14 · 조선일보 11.13 · 연합뉴스 11.13\n📷 사진: 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-14T04:27:00",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "더팩트",
+    "url": "https://n.news.naver.com/mnews/article/629/0000551604",
+    "time": "2026-11-13 10:57:11"
+   },
+   {
+    "press": "주간조선",
+    "url": "https://n.news.naver.com/mnews/article/053/0000063025",
+    "time": "2026-11-14 03:40:06"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004009419",
+    "time": "2026-11-13 09:56:09"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016441194",
+    "time": "2026-11-13 17:16:05"
+   }
+  ]
+ },
+ {
+  "id": "20261114-05",
+  "title": "증시 조정, 대통령의 답",
+  "caption": "<증시 조정, 대통령의 답>\n\n\"지금은 누가 봐도 비정상\"\n\n붉은 넥타이 매고 나선 이 대통령\n\"산이 높으면 골이 깊은 것\"\n\n정부 의지는 시험대에 올랐다\n말보다 결과가 필요한 때…\n\n출처: 헤럴드경제·파이낸셜뉴스\n\n여러분 생각은? 댓글로 1 또는 2\n1 정책 의지 믿는다\n2 결과로 보여달라\n\n📌 출처: 헤럴드경제 11.13 · 아시아경제 11.13 · 파이낸셜뉴스 11.13 · 조선비즈 11.13\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-14T04:34:48",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "헤럴드경제",
+    "url": "https://n.news.naver.com/mnews/article/016/0002722963",
+    "time": "2026-11-13 09:47:08"
+   },
+   {
+    "press": "아시아경제",
+    "url": "https://n.news.naver.com/mnews/article/277/0005842199",
+    "time": "2026-11-13 09:57:21"
+   },
+   {
+    "press": "파이낸셜뉴스",
+    "url": "https://n.news.naver.com/mnews/article/014/0005603859",
+    "time": "2026-11-13 10:14:13"
+   },
+   {
+    "press": "조선비즈",
+    "url": "https://n.news.naver.com/mnews/article/366/0001204528",
+    "time": "2026-11-13 10:01:25"
+   }
+  ]
  }
 ]
