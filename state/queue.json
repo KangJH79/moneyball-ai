@@ -3851,5 +3851,107 @@
     "time": "2026-11-14 18:46:09"
    }
   ]
+ },
+ {
+  "id": "20261115-08",
+  "title": "부산역 장외집회",
+  "caption": "<부산역 장외집회>\n\n국민의힘, 부산역 광장 집회\n'조작기소 특검법' 규탄\n\n장동혁 \"여기가 마지노선\"\n참석 규모는 주최·경찰 집계 큰 차이\n\n다음 집회는 21일 대구\n여러분 생각은 댓글로\n\n여러분 생각은? 댓글로 1 또는 2\n1 장외집회 필요하다\n2 국회에서 풀어야\n\n📌 출처: 뉴시스 11.14 · 연합뉴스 11.14 · 부산일보 11.15 · 데일리안 11.14\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-15T09:35:13",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014322303",
+    "time": "2026-11-14 18:54:08"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016441923",
+    "time": "2026-11-14 17:39:45"
+   },
+   {
+    "press": "부산일보",
+    "url": "https://n.news.naver.com/mnews/article/082/0001407111",
+    "time": "2026-11-15 07:33:13"
+   },
+   {
+    "press": "데일리안",
+    "url": "https://n.news.naver.com/mnews/article/119/0003155138",
+    "time": "2026-11-14 17:10:13"
+   }
+  ]
+ },
+ {
+  "id": "20261115-09",
+  "title": "신천지 이어 통일교, 특검 요구",
+  "caption": "<신천지 이어 통일교, 특검 요구>\n\n신천지 집단 입당 의혹에\n통일교 개입 의혹까지…\n\n국민의힘은 \"특검으로 규명하라\"\n민주당은 아직 답이 없다\n\n여러분 생각은 어떤가요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 특검으로 규명\n2 자체 해명 먼저\n\n📌 출처: KBS 11.14 · 서울경제 11.14 · 매일경제 11.14 · 뉴스1 11.14\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-15T09:36:17",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012293916",
+    "time": "2026-11-14 11:36:39"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004682166",
+    "time": "2026-11-14 12:33:14"
+   },
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005763635",
+    "time": "2026-11-14 13:04:08"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009289086",
+    "time": "2026-11-14 17:31:09"
+   }
+  ]
+ },
+ {
+  "id": "20261115-11",
+  "title": "이준석 \"졸업장 공개 10년 넘었다\"",
+  "caption": "<이준석 \"졸업장 공개 10년 넘었다\">\n\n이준석 의원, 전한길 씨 추가 고소 예고\n\n전 씨는 노무현 추천 입학을 주장\n이 의원은 \"졸업장 공개 10년 넘었다\"\n\n16일 추가 고소 예정\n의혹엔 근거가 필요합니다\n\n여러분 생각은? 댓글로 1 또는 2\n1 엄정 대응이 맞다\n2 근거부터 따져야\n\n📌 출처: 뉴스1 11.14 · 주간경향 11.14 · 미디어오늘 11.14 · 세계일보 11.14\n📷 사진: National Assembly (South Korea), KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-15T09:40:01",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009288821",
+    "time": "2026-11-14 10:01:15"
+   },
+   {
+    "press": "주간경향",
+    "url": "https://n.news.naver.com/mnews/article/033/0000053375",
+    "time": "2026-11-14 14:10:24"
+   },
+   {
+    "press": "미디어오늘",
+    "url": "https://n.news.naver.com/mnews/article/006/0000138757",
+    "time": "2026-11-14 19:55:10"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004175083",
+    "time": "2026-11-14 13:29:06"
+   }
+  ]
  }
 ]
