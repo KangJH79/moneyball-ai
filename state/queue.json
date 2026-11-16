@@ -4062,7 +4062,7 @@
   "caption": "<미래대응기금 여야 말말말>\n\n내년 예산안 심사가 시작됐다…\n여당은 '안전판', 야당은 '전액 삭감'.\n정작 지역구 증액 요구 논란까지 터졌다.\n기금 폐지를 외치면서 증액은 요구했다는 비판이 나온다.\n정부가 국회 승인 없이\n13조6천억원을 바꿀 수 있다는 점도 쟁점.\n발언은 모두 기사 속 출처를 밝혀 정리했다.\n여러분의 생각은? 댓글로 남겨주세요.\n\n여러분 생각은? 댓글로 1 또는 2\n1 전액 삭감\n2 신설 유지\n\n📌 출처: 연합뉴스 11.15 · 아시아경제 11.16 · 뉴스1 11.15\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / ChongDae, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
   "cards": 7,
   "made": "2026-11-16T10:27:24",
-  "status": "ready",
+  "status": "failed",
   "template": "list",
   "deliverable": null,
   "guide_url": null,
@@ -4083,6 +4083,8 @@
     "url": "https://n.news.naver.com/mnews/article/421/0009289823",
     "time": "2026-11-15 14:40:43"
    }
-  ]
+  ],
+  "error": "HTTP 400 code=9007 sub=2207027 Media ID is not available",
+  "failed_at": "2026-11-16T18:20:15+09:00"
  }
 ]
