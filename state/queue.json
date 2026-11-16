@@ -3987,5 +3987,73 @@
     "time": "2026-11-15 20:14:13"
    }
   ]
+ },
+ {
+  "id": "20261116-08",
+  "title": "한덕수 구속 만기 D-4",
+  "caption": "<한덕수 구속 만기 D-4>\n\n구속 만료는 20일 0시\n대법원은 19일 합의기일\n\n당일 선고? 조건부 보석?\n별건 재판부 추가 구속?\n\n기한을 넘기는 사법부, 괜찮을까요…\n여러분 생각은 댓글로\n\n여러분 생각은? 댓글로 1 또는 2\n1 시간 끈 대법원 탓\n2 사법부 압박 말라\n\n📌 출처: 뉴스1 11.15 · 뉴시스 11.15 · 경향신문 11.16 · 오마이뉴스 11.16\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-16T10:11:21",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009289922",
+    "time": "2026-11-15 15:47:38"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014322487",
+    "time": "2026-11-15 07:00:00"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003482838",
+    "time": "2026-11-16 06:00:09"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002535898",
+    "time": "2026-11-16 07:01:06"
+   }
+  ]
+ },
+ {
+  "id": "20261116-10",
+  "title": "박지원 \"최민희 징계 피할 수 없는 길\"",
+  "caption": "<박지원 \"최민희 징계 피할 수 없는 길\">\n\n최민희 최고위원의 발언 논란…\n윤리심판원으로 넘어갔다.\n\n박지원 의원은 SBS 라디오에서\n\"징계는 피할 수 없는 길\"이라 했다.\n\n당 안의 갈등, 어디까지 갈까?\n(출처: 경향신문·뉴시스 11.16)\n\n여러분 생각은? 댓글로 1 또는 2\n1 징계 불가피\n2 신중히 지켜봐야\n\n📌 출처: 경향신문 11.16 · JTBC 11.16 · 뉴시스 11.16 · 헤럴드경제 11.16\n📷 사진: koreanet ; cropped by 밥풀떼기, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-16T10:13:36",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003482848",
+    "time": "2026-11-16 08:01:00"
+   },
+   {
+    "press": "JTBC",
+    "url": "https://n.news.naver.com/mnews/article/437/0000520862",
+    "time": "2026-11-16 09:19:02"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014323766",
+    "time": "2026-11-16 09:27:06"
+   },
+   {
+    "press": "헤럴드경제",
+    "url": "https://n.news.naver.com/mnews/article/016/0002723818",
+    "time": "2026-11-16 09:15:10"
+   }
+  ]
  }
 ]
