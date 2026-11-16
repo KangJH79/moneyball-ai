@@ -4086,5 +4086,73 @@
   ],
   "error": "HTTP 400 code=9007 sub=2207027 Media ID is not available",
   "failed_at": "2026-11-16T18:20:15+09:00"
+ },
+ {
+  "id": "20261117-01",
+  "title": "최민희 사과, 그 뒤에 남은 것",
+  "caption": "<최민희 사과, 그 뒤에 남은 것>\n\n고개는 90도 숙였지만…\n사과 직후 요구가 이어졌다.\n\n친명계는 제명 포함 중징계,\n김 대표는 당헌·당규대로.\n\n집권여당의 내홍, 어디까지 갈까?\n출처: 조선일보·세계일보·프레시안\n\n여러분 생각은? 댓글로 1 또는 2\n1 엄중 징계해야\n2 갈등 봉합이 먼저\n\n📌 출처: JTBC 11.16 · 프레시안 11.16 · 세계일보 11.16 · 조선일보 11.17\n📷 사진: 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-17T03:20:22",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "JTBC",
+    "url": "https://n.news.naver.com/mnews/article/437/0000520965",
+    "time": "2026-11-16 18:14:14"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002466112",
+    "time": "2026-11-16 16:59:10"
+   },
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004175583",
+    "time": "2026-11-16 18:32:14"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004010005",
+    "time": "2026-11-17 00:49:08"
+   }
+  ]
+ },
+ {
+  "id": "20261117-03",
+  "title": "조작 징계 폭로 D-day, 국힘 전운",
+  "caption": "<조작 징계 폭로 D-day, 국힘 전운>\n\n17일 추가 증거 공개 예고…\n통화·텔레그램 자료라고 한다.\n\n장 대표는 개입 의혹 전면 부인.\n당권파는 '정치적 의도'라는데…\n\n진상조사 요구는 왜 막을까?\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 증거부터 공개해야\n2 정치적 공세다\n\n📌 출처: 매일경제 11.16 · 시사저널 11.16 · 서울경제 11.16 · 더팩트 11.17\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-17T03:25:43",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "매일경제",
+    "url": "https://n.news.naver.com/mnews/article/009/0005764285",
+    "time": "2026-11-16 11:27:14"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000142320",
+    "time": "2026-11-16 09:46:08"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004682445",
+    "time": "2026-11-16 06:31:15"
+   },
+   {
+    "press": "더팩트",
+    "url": "https://n.news.naver.com/mnews/article/629/0000552512",
+    "time": "2026-11-17 00:01:10"
+   }
+  ]
  }
 ]
