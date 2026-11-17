@@ -4224,5 +4224,107 @@
     "time": "2026-11-16 13:56:22"
    }
   ]
+ },
+ {
+  "id": "20261118-01",
+  "title": "만점짜리 스키장, 그 이면",
+  "caption": "<만점짜리 스키장, 그 이면>\n\n김정은 삼지연 시찰\n딸 주애는 스키장에서 활강\n\n'흠잡을 데 없는 만점짜리'라는데\n데일리NK는 올해 1월\n건설 노동자 동상 보도\n\n출처: 연합뉴스·매일신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 관광 개발 자랑\n2 주민 삶이 먼저\n\n📌 출처: 한겨레 11.17 · 연합뉴스 11.17 · 매일신문 11.17 · 경향신문 11.17",
+  "cards": 5,
+  "made": "2026-11-18T03:33:47",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002832537",
+    "time": "2026-11-17 10:16:21"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016446564",
+    "time": "2026-11-17 14:32:48"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001040671",
+    "time": "2026-11-17 10:01:08"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003483138",
+    "time": "2026-11-17 11:16:00"
+   }
+  ]
+ },
+ {
+  "id": "20261118-02",
+  "title": "기내에서 만든 커닝 탐지 앱",
+  "caption": "<기내에서 만든 커닝 탐지 앱>\n\n수능을 이틀 앞두고…\n이준석 의원이 직접 앱을 만들었다.\n영국행 비행기 안에서, 스타링크로.\n모든 기기를 잡지는 못한다고 본인도 인정.\n그래도 대책 없는 것보단 낫다…\n정부는 언제 움직일까?\n\n출처: 중앙일보·매일신문·JTBC\n\n여러분 생각은? 댓글로 1 또는 2\n1 정부가 더 나서야\n2 일단 지켜봐야\n\n📌 출처: JTBC 11.17 · 중앙일보 11.17 · 오마이뉴스 11.17 · 매일신문 11.17\n📷 사진: National Assembly (South Korea), KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음 / 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-18T03:45:33",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "JTBC",
+    "url": "https://n.news.naver.com/mnews/article/437/0000521091",
+    "time": "2026-11-17 14:01:10"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003565776",
+    "time": "2026-11-17 12:33:11"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002536125",
+    "time": "2026-11-17 12:03:03"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001040717",
+    "time": "2026-11-17 11:22:12"
+   }
+  ]
+ },
+ {
+  "id": "20261118-05",
+  "title": "빈소에서 마주한 두 사람",
+  "caption": "<빈소에서 마주한 두 사람>\n\n장동혁 대표, 한동훈 의원 장인상 조문\n오전 8시30분쯤 서울성모병원 장례식장\n헌화·묵념 뒤 악수, 약 5분 대화\n\n그간 징계·복당 문제로 갈등해 왔다\n고인의 명복을 빕니다\n출처: 중앙일보·경향신문·연합뉴스\n\n여러분 생각은? 댓글로 1 또는 2\n1 조문은 조문일 뿐\n2 관계 변화의 신호\n\n📌 출처: 경향신문 11.17 · 서울경제 11.17 · 중앙일보 11.17 · 연합뉴스 11.17\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-18T03:49:59",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003483124",
+    "time": "2026-11-17 10:42:00"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004682943",
+    "time": "2026-11-17 08:40:09"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003565718",
+    "time": "2026-11-17 10:07:23"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016445602",
+    "time": "2026-11-17 09:42:30"
+   }
+  ]
  }
 ]
