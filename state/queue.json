@@ -4127,7 +4127,7 @@
   "caption": "<조작 징계 폭로 D-day, 국힘 전운>\n\n17일 추가 증거 공개 예고…\n통화·텔레그램 자료라고 한다.\n\n장 대표는 개입 의혹 전면 부인.\n당권파는 '정치적 의도'라는데…\n\n진상조사 요구는 왜 막을까?\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 증거부터 공개해야\n2 정치적 공세다\n\n📌 출처: 매일경제 11.16 · 시사저널 11.16 · 서울경제 11.16 · 더팩트 11.17\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-17T03:25:43",
-  "status": "ready",
+  "status": "failed",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -4153,7 +4153,9 @@
     "url": "https://n.news.naver.com/mnews/article/629/0000552512",
     "time": "2026-11-17 00:01:10"
    }
-  ]
+  ],
+  "error": "HTTP 400 code=9007 sub=2207027 Media ID is not available",
+  "failed_at": "2026-11-17T12:40:49+09:00"
  },
  {
   "id": "20261117-05",
