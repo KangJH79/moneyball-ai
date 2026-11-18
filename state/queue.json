@@ -4360,5 +4360,141 @@
     "time": "2026-11-17 14:03:10"
    }
   ]
+ },
+ {
+  "id": "20261119-01",
+  "title": "조국 일본 입국 거부",
+  "caption": "<조국 일본 입국 거부>\n\n일본 \"전과 때문, 독도와 무관\"\n조국 측 \"보복성 의심\"\n\n무비자는 입국 보장이 아니다\n사전 확인은 누구 몫이었나\n\n출처: 주간경향·조선비즈·이데일리\n\n여러분 생각은? 댓글로 1 또는 2\n1 사전 확인 소홀\n2 독도 보복 의심\n\n📌 출처: 세계일보 11.18 · 이데일리 11.18 · 조선비즈 11.18 · 주간경향 11.17\n📷 사진: 델리민주 [더불어민주당 ], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 대한민국 청와대, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-19T00:11:58",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "세계일보",
+    "url": "https://n.news.naver.com/mnews/article/022/0004176196",
+    "time": "2026-11-18 14:54:10"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006412127",
+    "time": "2026-11-18 23:54:09"
+   },
+   {
+    "press": "조선비즈",
+    "url": "https://n.news.naver.com/mnews/article/366/0001205795",
+    "time": "2026-11-18 23:56:07"
+   },
+   {
+    "press": "주간경향",
+    "url": "https://n.news.naver.com/mnews/article/033/0000053446",
+    "time": "2026-11-17 21:07:27"
+   }
+  ]
+ },
+ {
+  "id": "20261119-02",
+  "title": "시진핑 앞 한반도 평화 당부",
+  "caption": "<시진핑 앞 한반도 평화 당부>\n\n이 대통령, 선전서 시 주석 만났다\n한반도 평화·안정은 공동 이익이라 밝혔다\n청와대는 서해 문제도 언급했다고 전했다\n그런데 신화통신엔 서해 얘기가 없었다\n\n미중러 회담은 바로 다음 날\n말보다 결과가 중요하다\n(출처: 조선일보·KBS·머니투데이)\n\n여러분 생각은? 댓글로 1 또는 2\n1 실리 챙긴 외교\n2 말뿐인 덕담\n\n📌 출처: 머니투데이 11.18 · KBS 11.18 · 조선일보 11.18 · 부산일보 11.18\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-19T00:13:09",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005442939",
+    "time": "2026-11-18 14:06:49"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012296840",
+    "time": "2026-11-18 23:17:11"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004010310",
+    "time": "2026-11-18 13:04:10"
+   },
+   {
+    "press": "부산일보",
+    "url": "https://n.news.naver.com/mnews/article/082/0001407764",
+    "time": "2026-11-18 14:00:16"
+   }
+  ]
+ },
+ {
+  "id": "20261119-03",
+  "title": "욕먹는 재미?",
+  "caption": "<욕먹는 재미?>\n\n이재명 대통령, 중국 선전 동포 간담회\n\n\"온갖 욕을 얻어먹어가면서도\n그 재미로 대통령 일을 한다\"\n\n비판 앞에서 소신이라는 말만으론\n충분할까요?\n출처: 조선·중앙·연합·오마이뉴스\n\n여러분 생각은? 댓글로 1 또는 2\n1 비판도 감수하는 소신\n2 비판부터 듣는 게 먼저\n\n📌 출처: 조선일보 11.18 · 중앙일보 11.18 · 연합뉴스 11.18 · 오마이뉴스 11.18\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-19T00:13:55",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004010347",
+    "time": "2026-11-18 15:44:08"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003566146",
+    "time": "2026-11-18 15:21:39"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016449214",
+    "time": "2026-11-18 14:20:05"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002536346",
+    "time": "2026-11-18 15:11:15"
+   }
+  ]
+ },
+ {
+  "id": "20261119-04",
+  "title": "19일 본회의 앞두고 여야 맞불",
+  "caption": "<19일 본회의 앞두고 여야 맞불>\n\n민주유공자법 상정 추진\n국민의힘은 전체 필리버스터 예고\n\n방송3법·주택3법은 고심 중\n협의 결과에 따라 일정 달라질 전망\n여러분의 생각은 어떤가요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 여야 협의 먼저\n2 법안 처리 우선\n\n📌 출처: KBS 11.18 · 조세일보 11.18 · 뉴스1 11.18 · 파이낸셜뉴스 11.18\n📷 사진: 고려, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / Eugénio Teixeira (VOA), Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-19T00:14:49",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012296322",
+    "time": "2026-11-18 13:41:33"
+   },
+   {
+    "press": "조세일보",
+    "url": "https://n.news.naver.com/mnews/article/123/0002394328",
+    "time": "2026-11-18 16:28:13"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009296973",
+    "time": "2026-11-18 16:48:27"
+   },
+   {
+    "press": "파이낸셜뉴스",
+    "url": "https://n.news.naver.com/mnews/article/014/0005606105",
+    "time": "2026-11-18 13:31:13"
+   }
+  ]
  }
 ]
