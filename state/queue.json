@@ -4598,5 +4598,39 @@
     "time": "2026-11-19 13:05:09"
    }
   ]
+ },
+ {
+  "id": "20261120-06",
+  "title": "조희대 탄핵 당론 추진",
+  "caption": "<조희대 탄핵 당론 추진>\n\n판결 하루 만에 나온 탄핵 선언…\n김민석 대표 \"역사적인 반역\" 주장\n국민의힘은 \"보복 탄핵\"이라 반발\n민주당은 20일 의총서 당론 채택 예정\n\n판결에 대한 비판과 사법부 탄핵,\n같은 선상에 놓아도 될까요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 판결 불복 탄핵\n2 사법부 존중\n\n📌 출처: MBC 11.19 · 중앙일보 11.20 · 서울경제 11.19 · 대전일보 11.19\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 경기도청 언론협력담당관, KOGL Type 1 (http://www.kogl.or.kr/info/licenseType1.do) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-20T00:54:53",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "MBC",
+    "url": "https://n.news.naver.com/mnews/article/214/0001536749",
+    "time": "2026-11-19 19:50:05"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003566562",
+    "time": "2026-11-20 00:01:00"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004684140",
+    "time": "2026-11-19 18:33:10"
+   },
+   {
+    "press": "대전일보",
+    "url": "https://n.news.naver.com/mnews/article/656/0000193035",
+    "time": "2026-11-19 22:51:10"
+   }
+  ]
  }
 ]
