@@ -5035,5 +5035,136 @@
     "time": "2026-11-22 10:14:17"
    }
   ]
+ },
+ {
+  "id": "20261124-01",
+  "title": "한동훈 제명, 구형일 기획 논란",
+  "caption": "<한동훈 제명, 구형일 기획 논란>\n\n윤리위원들의 추가 폭로\n장 대표와 최규동 전 위원 대화 공개\n장 대표는 '본질은 같다'고 답했다\n한동훈 의원은 책임을 요구했다\n\n직접 지시 증거는 아직 제시 안 됨\n출처: 채널A·연합뉴스·오마이뉴스\n\n여러분 생각은? 댓글로 1 또는 2\n1 장 대표 책임 있다\n2 근거가 부족하다\n\n📌 출처: 채널A 11.23 · 디지털타임스 11.23 · 오마이뉴스 11.23 · 연합뉴스 11.23\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-24T03:14:13",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "채널A",
+    "url": "https://n.news.naver.com/mnews/article/449/0000368440",
+    "time": "2026-11-23 19:23:27"
+   },
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003060731",
+    "time": "2026-11-23 21:20:38"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002536958",
+    "time": "2026-11-23 18:21:18"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016459294",
+    "time": "2026-11-23 22:06:09"
+   }
+  ]
+ },
+ {
+  "id": "20261124-02",
+  "title": "최민희, 제보자 성향 꺼냈다",
+  "caption": "<최민희, 제보자 성향 꺼냈다>\n\n제보자 활동명을 공개한 최민희.\n\"성향이 그대로 드러난다\"고 했다.\n\n그런데 주간경향은 짚었다.\n사주·공모 근거는 제시 못 했다고.\n\n발언 해명이 먼저 아닐까?\n출처: 오마이뉴스·주간경향 23일\n\n여러분 생각은? 댓글로 1 또는 2\n1 제보자 성향이 문제\n2 발언 내용이 본질\n\n📌 출처: KBS 11.23 · 주간경향 11.23 · 오마이뉴스 11.23 · 디지털타임스 11.23\n📷 사진: 국민의힘TV (People Power Party), CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-24T03:16:02",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012299277",
+    "time": "2026-11-23 15:28:28"
+   },
+   {
+    "press": "주간경향",
+    "url": "https://n.news.naver.com/mnews/article/033/0000053590",
+    "time": "2026-11-23 16:11:01"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002536946",
+    "time": "2026-11-23 17:32:36"
+   },
+   {
+    "press": "디지털타임스",
+    "url": "https://n.news.naver.com/mnews/article/029/0003060714",
+    "time": "2026-11-23 18:14:49"
+   }
+  ]
+ },
+ {
+  "id": "20261124-03",
+  "title": "민주당 최고위, 신천지 공개 충돌",
+  "caption": "<민주당 최고위, 신천지 공개 충돌>\n\n민주당 최고위가 또 시끄럽습니다.\n박선원 최고위원은 4만3000명 가능성을 언급했고,\n한민수 최고위원은 근거를 공개하라고 했습니다.\n\n김민석 대표는 구두 경고를 내렸습니다.\n\n당의 단합을 말하는 지도부…\n정작 회의장 모습은 어땠을까요?\n\n여러분 생각은? 댓글로 1 또는 2\n1 조사결과 전면공개\n2 당내에서 정리\n\n📌 출처: 한겨레 11.23 · 조선일보 11.23 · KBS 11.23 · 뉴시스 11.23\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-24T03:18:18",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한겨레",
+    "url": "https://n.news.naver.com/mnews/article/028/0002833486",
+    "time": "2026-11-23 11:38:10"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004011162",
+    "time": "2026-11-23 10:31:19"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012299168",
+    "time": "2026-11-23 12:15:12"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014339681",
+    "time": "2026-11-23 13:03:13"
+   }
+  ]
+ },
+ {
+  "id": "20261124-04",
+  "title": "청해부대 우회 파병 공방",
+  "caption": "<청해부대 우회 파병 공방>\n\n청해부대 파견 연장안을 두고 국방위가 공방.\n정부는 상선·교민 보호라며 불개입을 강조.\n임종득 의원은 확대 지역 해적 활동 여부를 물었습니다.\n강 장관은 기뢰 위협을 배제할 수 없다고 했습니다.\n이데일리는 첨부 보고서의 기뢰제거 언급을 짚었습니다.\n국방위는 24일 법안소위에서 심사합니다.\n\n여러분 생각은? 댓글로 1 또는 2\n1 해적 대응 필요\n2 우회 파병 의심\n\n📌 출처: MBC 11.23 · 오마이뉴스 11.23 · 이데일리 11.23\n📷 사진: Photo By: MND, Attribution · 잘라서 글자 얹음 / President Of Ukraine, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) · 잘라서 글자 얹음",
+  "cards": 6,
+  "made": "2026-11-24T03:21:16",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "MBC",
+    "url": "https://n.news.naver.com/mnews/article/214/0001537467",
+    "time": "2026-11-23 19:18:25"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002536884",
+    "time": "2026-11-23 13:01:07"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006414313",
+    "time": "2026-11-23 17:02:13"
+   }
+  ]
  }
 ]
