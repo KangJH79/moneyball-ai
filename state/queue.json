@@ -5375,5 +5375,73 @@
     "time": "2026-11-25 18:40:21"
    }
   ]
+ },
+ {
+  "id": "20261126-05",
+  "title": "경주서 터진 장외 총공세",
+  "caption": "<경주서 터진 장외 총공세>\n\n국민의힘, 조희대 고향 경주 집회\n\n장동혁 \"이재명 탄핵이 먼저\"\n당 5천명 · 경찰 1천800여명\n\n26일 용인 · 28일 대전 · 29일 문경\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 장외 여론전 필요\n2 국회에서 풀어야\n\n📌 출처: 연합뉴스 11.25 · 중앙일보 11.25 · 뉴스1 11.25 · 매일신문 11.25\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-26T04:49:06",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016463278",
+    "time": "2026-11-25 16:07:56"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003567899",
+    "time": "2026-11-25 16:30:17"
+   },
+   {
+    "press": "뉴스1",
+    "url": "https://n.news.naver.com/mnews/article/421/0009309977",
+    "time": "2026-11-25 16:32:43"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001042334",
+    "time": "2026-11-25 17:29:18"
+   }
+  ]
+ },
+ {
+  "id": "20261126-08",
+  "title": "가정폭력 반의사불벌 폐지",
+  "caption": "<가정폭력 반의사불벌 폐지>\n\n이 대통령, 법 개정 추진 밝혔다\n\n피해자가 처벌 원치 않아도\n가해자 책임을 묻겠다는 것\n\n법만 고치면 끝일까…\n경찰 인력·보호시설이 따라야\n\n출처: JTBC·머니투데이·경향신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 폐지 찬성\n2 보완이 먼저\n\n📌 출처: JTBC 11.25 · 머니투데이 11.26 · 이데일리 11.25 · 경향신문 11.25\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-26T04:52:43",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "JTBC",
+    "url": "https://n.news.naver.com/mnews/article/437/0000522355",
+    "time": "2026-11-25 11:20:11"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005446522",
+    "time": "2026-11-26 03:44:00"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006415541",
+    "time": "2026-11-25 18:03:08"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003485016",
+    "time": "2026-11-25 17:19:00"
+   }
+  ]
  }
 ]
