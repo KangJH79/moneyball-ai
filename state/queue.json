@@ -5173,7 +5173,7 @@
   "caption": "<울릉도 경보, 문자는 틀렸다>\n\n러시아 군용기, 카디즈 진입.\n울릉군엔 경계경보가 울렸다.\n\n그런데 경북도 해제 문자엔\n'북한 항공기 추정'이라고…\n\n정정까지 41분.\n그 사이 주민 마음은 어땠을까.\n\n여러분 생각은? 댓글로 1 또는 2\n1 경북도 책임 크다\n2 재난문자 체계 점검\n\n📌 출처: 한국경제 11.24 · 동행미디어 시대 11.24 · YTN 11.24 · 채널A 11.24\n📷 사진: 구름990, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-25T00:12:04",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5207,7 +5207,7 @@
   "caption": "<12·3 국민주권의 날 지정>\n\n매년 12월 3일, 정부기념일로...\n국무회의에서 개정안이 의결됐다.\n그런데 명칭도 날짜도 의견이 갈렸다.\n4월 4일, 공휴일 제안까지 나왔다.\n\n나경원 의원은 예산을 문제 삼았다.\n국민 합의는 충분했을까...\n\n출처: 연합뉴스·서울신문·매일신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 기억할 기념일\n2 절차·예산 문제\n\n📌 출처: 연합뉴스 11.24 · 서울신문 11.24 · 머니투데이 11.24 · 매일신문 11.24\n📷 사진: MBC PD Note, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-25T00:12:57",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5241,7 +5241,7 @@
   "caption": "<조작징계 파문, 말말말>\n\n조작징계 의혹이 장동혁 대표 사퇴론으로 번졌습니다.\n장 대표는 윤리위에 의견을 전한 건\n당연하다고 했습니다.\n한동훈·조경태·김태호 의원은 사퇴를 요구했습니다.\n당대표가 징계에 의견을 내는 게 정말 당연한 일일까요…\n국민의힘 지도부는 직접 개입 증거는 없다는 입장입니다.\n여러분의 생각은 어떠세요?\n출처: 매일경제, 문화일보, 국민일보 (11.24)\n\n여러분 생각은? 댓글로 1 또는 2\n1 물러나야\n2 끝까지 가야\n\n📌 출처: 매일경제 11.24 · 문화일보 11.24 · 국민일보 11.24 · 세계일보 11.24\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 臺北市政府, Attribution · 잘라서 글자 얹음",
   "cards": 8,
   "made": "2026-11-25T00:14:12",
-  "status": "ready",
+  "status": "retired",
   "template": "list",
   "deliverable": null,
   "guide_url": null,
@@ -5285,7 +5285,7 @@
   "caption": "<청와대 특활비 82억, 결국 보류>\n\n내년도 청와대 특활비 82억 5000만 원.\n예산소위에서 여야가 정면충돌했습니다.\n야당은 자료 제출 거부를 문제 삼았고,\n청와대는 전부 공개는 어렵다고 했습니다.\n결국 심사는 보류, 소소위로 넘어갔습니다.\n여러분의 생각은? 댓글로 남겨주세요.\n출처: 뉴시스·파이낸셜뉴스·서울경제 11.24\n\n여러분 생각은? 댓글로 1 또는 2\n1 원안 유지\n2 삭감해야\n\n📌 출처: 서울경제 11.24 · 파이낸셜뉴스 11.24 · 뉴시스 11.24\n📷 사진: MBC PD Note, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / ChongDae, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
   "cards": 8,
   "made": "2026-11-25T00:15:01",
-  "status": "ready",
+  "status": "retired",
   "template": "list",
   "deliverable": null,
   "guide_url": null,
@@ -5305,6 +5305,74 @@
     "press": "뉴시스",
     "url": "https://n.news.naver.com/mnews/article/003/0014343089",
     "time": "2026-11-24 21:03:27"
+   }
+  ]
+ },
+ {
+  "id": "20261126-01",
+  "title": "의원직을 건 한동훈",
+  "caption": "<의원직을 건 한동훈>\n\n한동훈 무소속 의원의 제안\n\n탄핵이 인용되면 자신이 사퇴\n기각되면 민주당도 사퇴하라\n\n아직 응답한 민주당 의원은 없다\n여러분의 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 의원직 걸어야\n2 과한 정치 공세\n\n📌 출처: 주간조선 11.25 · 조선일보 11.26 · 아이뉴스24 11.25 · JIBS 11.25\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-26T03:14:35",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "주간조선",
+    "url": "https://n.news.naver.com/mnews/article/053/0000063334",
+    "time": "2026-11-25 14:00:06"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004011806",
+    "time": "2026-11-26 00:52:12"
+   },
+   {
+    "press": "아이뉴스24",
+    "url": "https://n.news.naver.com/mnews/article/031/0001078292",
+    "time": "2026-11-25 14:30:09"
+   },
+   {
+    "press": "JIBS",
+    "url": "https://n.news.naver.com/mnews/article/661/0000087042",
+    "time": "2026-11-25 09:04:16"
+   }
+  ]
+ },
+ {
+  "id": "20261126-04",
+  "title": "초소형캠 90%가 중국산",
+  "caption": "<초소형캠 90%가 중국산>\n\n주진우 의원이 25일 밝혔다.\n올해 1~10월 수입신고 중\n중국발이 90.3%였다고 한다.\n\n대학 AI 부정 적발도\n2024년 17건→올해 8월 38건.\n\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 정부 대응 부실\n2 기기 판매·사용자\n\n📌 출처: 연합뉴스 11.25 · 머니투데이 11.25 · 서울경제 11.25 · 경기일보 11.25\n📷 사진: Striker9498, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-26T03:19:07",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016463446",
+    "time": "2026-11-25 17:02:03"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005446299",
+    "time": "2026-11-25 15:25:36"
+   },
+   {
+    "press": "서울경제",
+    "url": "https://n.news.naver.com/mnews/article/011/0004686102",
+    "time": "2026-11-25 16:57:13"
+   },
+   {
+    "press": "경기일보",
+    "url": "https://n.news.naver.com/mnews/article/666/0000133807",
+    "time": "2026-11-25 18:40:21"
    }
   ]
  }
