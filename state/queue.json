@@ -5314,7 +5314,7 @@
   "caption": "<의원직을 건 한동훈>\n\n한동훈 무소속 의원의 제안\n\n탄핵이 인용되면 자신이 사퇴\n기각되면 민주당도 사퇴하라\n\n아직 응답한 민주당 의원은 없다\n여러분의 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 의원직 걸어야\n2 과한 정치 공세\n\n📌 출처: 주간조선 11.25 · 조선일보 11.26 · 아이뉴스24 11.25 · JIBS 11.25\n📷 사진: 국민의힘TV, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-26T03:14:35",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5348,7 +5348,7 @@
   "caption": "<초소형캠 90%가 중국산>\n\n주진우 의원이 25일 밝혔다.\n올해 1~10월 수입신고 중\n중국발이 90.3%였다고 한다.\n\n대학 AI 부정 적발도\n2024년 17건→올해 8월 38건.\n\n여러분 생각은?\n\n여러분 생각은? 댓글로 1 또는 2\n1 정부 대응 부실\n2 기기 판매·사용자\n\n📌 출처: 연합뉴스 11.25 · 머니투데이 11.25 · 서울경제 11.25 · 경기일보 11.25\n📷 사진: Striker9498, CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-26T03:19:07",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5382,7 +5382,7 @@
   "caption": "<경주서 터진 장외 총공세>\n\n국민의힘, 조희대 고향 경주 집회\n\n장동혁 \"이재명 탄핵이 먼저\"\n당 5천명 · 경찰 1천800여명\n\n26일 용인 · 28일 대전 · 29일 문경\n여러분 생각은 댓글로!\n\n여러분 생각은? 댓글로 1 또는 2\n1 장외 여론전 필요\n2 국회에서 풀어야\n\n📌 출처: 연합뉴스 11.25 · 중앙일보 11.25 · 뉴스1 11.25 · 매일신문 11.25\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-26T04:49:06",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5416,7 +5416,7 @@
   "caption": "<가정폭력 반의사불벌 폐지>\n\n이 대통령, 법 개정 추진 밝혔다\n\n피해자가 처벌 원치 않아도\n가해자 책임을 묻겠다는 것\n\n법만 고치면 끝일까…\n경찰 인력·보호시설이 따라야\n\n출처: JTBC·머니투데이·경향신문\n\n여러분 생각은? 댓글로 1 또는 2\n1 폐지 찬성\n2 보완이 먼저\n\n📌 출처: JTBC 11.25 · 머니투데이 11.26 · 이데일리 11.25 · 경향신문 11.25\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
   "cards": 5,
   "made": "2026-11-26T04:52:43",
-  "status": "ready",
+  "status": "retired",
   "template": "react",
   "deliverable": null,
   "guide_url": null,
@@ -5441,6 +5441,137 @@
     "press": "경향신문",
     "url": "https://n.news.naver.com/mnews/article/032/0003485016",
     "time": "2026-11-25 17:19:00"
+   }
+  ]
+ },
+ {
+  "id": "20261127-02",
+  "title": "폭언·욕설 차단한다는 대통령",
+  "caption": "<폭언·욕설 차단한다는 대통령>\n\n대통령이 SNS 차단을 말했다\n\"폭언, 욕설 이런 건 싫다\"\n\n일부는 차단당했다고 주장한다\n비판과 욕설, 경계는 어디?\n\n출처: SBS Biz·프레시안·TV조선\n\n여러분 생각은? 댓글로 1 또는 2\n1 욕설 차단은 당연\n2 비판 차단 우려돼\n\n📌 출처: SBS Biz 11.26 · 이데일리 11.26 · 프레시안 11.26 · TV조선 11.26\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-27T03:18:39",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "SBS Biz",
+    "url": "https://n.news.naver.com/mnews/article/374/0000546183",
+    "time": "2026-11-26 21:18:06"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006416269",
+    "time": "2026-11-26 19:10:12"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002467821",
+    "time": "2026-11-26 20:12:16"
+   },
+   {
+    "press": "TV조선",
+    "url": "https://n.news.naver.com/mnews/article/448/0000653669",
+    "time": "2026-11-26 22:11:41"
+   }
+  ]
+ },
+ {
+  "id": "20261127-03",
+  "title": "김정은, 한국 겨냥 전술핵 확대 주문",
+  "caption": "<김정은, 한국 겨냥 전술핵 확대 주문>\n\n\"가장 위해적인 적국\"…\n그 적국이 어디인지는\n다들 알고 있다.\n\n비핵화는 공동성명에서 빠졌고\n핵탄두는 줄지어 공개됐다…\n\n출처: 연합뉴스 외 3곳\n\n여러분 생각은? 댓글로 1 또는 2\n1 확장억제로 충분\n2 더 강한 억지력 필요\n\n📌 출처: 매일신문 11.26 · 서울신문 11.26 · 연합뉴스 11.26 · 조선일보 11.27\n📷 사진: US military, Public domain · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-27T03:19:36",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001042375",
+    "time": "2026-11-26 06:36:10"
+   },
+   {
+    "press": "서울신문",
+    "url": "https://n.news.naver.com/mnews/article/081/0003703625",
+    "time": "2026-11-26 18:55:10"
+   },
+   {
+    "press": "연합뉴스",
+    "url": "https://n.news.naver.com/mnews/article/001/0016464983",
+    "time": "2026-11-26 11:45:37"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004012054",
+    "time": "2026-11-27 00:56:12"
+   }
+  ]
+ },
+ {
+  "id": "20261127-04",
+  "title": "탄핵 밀어붙이는 여당, 안에서도 경고",
+  "caption": "<탄핵 밀어붙이는 여당, 안에서도 경고>\n\n여론조사에선 반대가 더 높다는데…\n여당은 9일 처리를 검토 중이다.\n친명 좌장도, 친명 핵심도\n책임은 여당 몫이라고 말한다.\n당 원로는 '총선에서 망하는 길'이라 했다.\n다섯 당이 함께 가면 책임도 나눠질까…\n출처: 부산일보·오마이뉴스·조선일보\n#조희대 #대법원장탄핵 #팩트펀치\n\n여러분 생각은? 댓글로 1 또는 2\n1 명분 있다\n2 역풍 맞는다\n\n📌 출처: 부산일보 11.26 · 오마이뉴스 11.26 · 조선일보 11.27\n📷 사진: 델리민주 [더불어민주당], CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음 / 이재명tv, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / Seoul Institute, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 8,
+  "made": "2026-11-27T03:23:48",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "부산일보",
+    "url": "https://n.news.naver.com/mnews/article/082/0001409182",
+    "time": "2026-11-26 17:21:11"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002537290",
+    "time": "2026-11-26 10:01:17"
+   },
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004012046",
+    "time": "2026-11-27 00:50:10"
+   }
+  ]
+ },
+ {
+  "id": "20261127-05",
+  "title": "\"역사적 이정표\"라는 대통령의 자평",
+  "caption": "<\"역사적 이정표\"라는 대통령의 자평>\n\n역사적 이정표라는 자평…\n정작 7대 시드는 더 빨라야 한다고.\n\n성과는 말이 아니라 체감으로.\n국민 지갑이 답할 일이다.\n\n출처: 국민일보·뉴시스 11.26\n\n여러분 생각은? 댓글로 1 또는 2\n1 체감된다\n2 글쎄, 모르겠다\n\n📌 출처: 국민일보 11.26 · 머니투데이 11.26 · 뉴시스 11.26 · 프레시안 11.26\n📷 사진: Republic of Korea, CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-27T03:25:12",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "국민일보",
+    "url": "https://n.news.naver.com/mnews/article/005/0001887629",
+    "time": "2026-11-26 14:56:13"
+   },
+   {
+    "press": "머니투데이",
+    "url": "https://n.news.naver.com/mnews/article/008/0005446919",
+    "time": "2026-11-26 15:12:14"
+   },
+   {
+    "press": "뉴시스",
+    "url": "https://n.news.naver.com/mnews/article/003/0014347970",
+    "time": "2026-11-26 16:29:34"
+   },
+   {
+    "press": "프레시안",
+    "url": "https://n.news.naver.com/mnews/article/002/0002467751",
+    "time": "2026-11-26 14:54:12"
    }
   ]
  }
