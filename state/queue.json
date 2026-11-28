@@ -5574,5 +5574,136 @@
     "time": "2026-11-26 14:54:12"
    }
   ]
+ },
+ {
+  "id": "20261128-01",
+  "title": "당원정지 2년, 갈라진 여당",
+  "caption": "<당원정지 2년, 갈라진 여당>\n\n최민희 최고위원에게\n당원자격정지 2년 의결\n\n최 최고위원 \"재심 신청\"\n정청래 \"김민석은?\" 반발\n\n민생은 어디에 두고\n또 계파 싸움입니까…\n\n여러분 생각은? 댓글로 1 또는 2\n1 자초한 책임\n2 과한 징계\n\n📌 출처: 노컷뉴스 11.28 · 오마이뉴스 11.27 · 매일신문 11.28 · 중앙SUNDAY 11.28\n📷 사진: 델리민주 [더불어민주당], CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / 델리민주 [더불어민주당], CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-28T10:24:10",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "노컷뉴스",
+    "url": "https://n.news.naver.com/mnews/article/079/0004214808",
+    "time": "2026-11-28 05:01:31"
+   },
+   {
+    "press": "오마이뉴스",
+    "url": "https://n.news.naver.com/mnews/article/047/0002537524",
+    "time": "2026-11-27 17:41:09"
+   },
+   {
+    "press": "매일신문",
+    "url": "https://n.news.naver.com/mnews/article/088/0001042816",
+    "time": "2026-11-28 08:32:15"
+   },
+   {
+    "press": "중앙SUNDAY",
+    "url": "https://n.news.naver.com/mnews/article/353/0000057440",
+    "time": "2026-11-28 01:39:11"
+   }
+  ]
+ },
+ {
+  "id": "20261128-02",
+  "title": "합의 불발, 그래도 법안?",
+  "caption": "<합의 불발, 그래도 법안?>\n\n10개월 만에 마주 앉은 노사\n결과는 또 합의 불발…\n\n경영계는 청년 일자리 걱정\n노동계는 특례 조항에 반발\n\n이대로 법안부터 낼 일인가?\n\n여러분 생각은? 댓글로 1 또는 2\n1 더 숙의해야\n2 연내 입법해야\n\n📌 출처: 한국경제 11.27 · 이데일리 11.27 · KBS 11.28 · 경향신문 11.27\n📷 사진: Simon Villeneuve, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-28T10:25:17",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "한국경제",
+    "url": "https://n.news.naver.com/mnews/article/015/0005359188",
+    "time": "2026-11-27 17:56:17"
+   },
+   {
+    "press": "이데일리",
+    "url": "https://n.news.naver.com/mnews/article/018/0006416729",
+    "time": "2026-11-27 18:16:14"
+   },
+   {
+    "press": "KBS",
+    "url": "https://n.news.naver.com/mnews/article/056/0012303094",
+    "time": "2026-11-28 09:38:16"
+   },
+   {
+    "press": "경향신문",
+    "url": "https://n.news.naver.com/mnews/article/032/0003485547",
+    "time": "2026-11-27 15:39:00"
+   }
+  ]
+ },
+ {
+  "id": "20261128-03",
+  "title": "청문보고서는 채택, 의문은 그대로",
+  "caption": "<청문보고서는 채택, 의문은 그대로>\n\n27일 국회 법사위,\n이용철 후보자 청문보고서 채택.\n국민의힘은 의결 직전 퇴장했고,\n적격·부적격 의견이 함께 담겼습니다.\n'공소 취소 지휘 안 한다'는 확답은 없었고,\n국민의힘은 \"공소취소 선포식\" 비판.\n대통령 사건 지휘권, 납득되십니까…\n출처: 경기일보·시사저널·미디어오늘\n\n여러분 생각은? 댓글로 1 또는 2\n1 적격이다\n2 부적격이다\n\n📌 출처: 경기일보 11.27 · 시사저널 11.27 · 미디어오늘 11.27\n📷 사진: 서울의소리 Voice of Seoul News, CC BY 3.0 (https://creativecommons.org/licenses/by/3.0) · 잘라서 글자 얹음 / IAEA Imagebank, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0) · 잘라서 글자 얹음",
+  "cards": 7,
+  "made": "2026-11-28T10:26:27",
+  "status": "ready",
+  "template": "list",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "경기일보",
+    "url": "https://n.news.naver.com/mnews/article/666/0000134097",
+    "time": "2026-11-27 16:38:19"
+   },
+   {
+    "press": "시사저널",
+    "url": "https://n.news.naver.com/mnews/article/586/0000143127",
+    "time": "2026-11-27 07:23:12"
+   },
+   {
+    "press": "미디어오늘",
+    "url": "https://n.news.naver.com/mnews/article/006/0000138986",
+    "time": "2026-11-27 17:32:11"
+   }
+  ]
+ },
+ {
+  "id": "20261128-04",
+  "title": "복당해도 다시 징계?",
+  "caption": "<복당해도 다시 징계?>\n\n법원 판단이 나와도\n다시 징계할 수 있다…\n장동혁 대표의 말입니다\n\n당은 '조작 징계' 공방 중\n의총엔 안 가겠다니…\n이 싸움, 언제 끝납니까\n\n여러분 생각은? 댓글로 1 또는 2\n1 지나치다\n2 할 수 있다\n\n📌 출처: 조선일보 11.28 · 주간경향 11.28 · kbc광주방송 11.27 · 중앙일보 11.27\n📷 사진: 국민의힘TV, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0) · 잘라서 글자 얹음",
+  "cards": 5,
+  "made": "2026-11-28T10:28:06",
+  "status": "ready",
+  "template": "react",
+  "deliverable": null,
+  "guide_url": null,
+  "dm_text": null,
+  "articles": [
+   {
+    "press": "조선일보",
+    "url": "https://n.news.naver.com/mnews/article/023/0004012226",
+    "time": "2026-11-28 00:37:15"
+   },
+   {
+    "press": "주간경향",
+    "url": "https://n.news.naver.com/mnews/article/033/0000053699",
+    "time": "2026-11-28 09:23:58"
+   },
+   {
+    "press": "kbc광주방송",
+    "url": "https://n.news.naver.com/mnews/article/660/0000122354",
+    "time": "2026-11-27 17:13:12"
+   },
+   {
+    "press": "중앙일보",
+    "url": "https://n.news.naver.com/mnews/article/025/0003568498",
+    "time": "2026-11-27 16:55:39"
+   }
+  ]
  }
 ]
